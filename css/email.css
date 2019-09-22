@@ -1,0 +1,150 @@
+
+body{
+	width: 100%;
+	position: relative;
+	height: auto;
+	margin: 0;
+	padding: 0;
+	float: left;
+	user-select: none;
+}
+
+.main-color-bend{
+	    width: 100%;
+    height: 208px;
+    position: absolute;
+    background: linear-gradient(to left, #9f6ffd9e 0%, #325af194 100%);
+    background-color: white;
+}
+
+
+.main-content-div{
+	position: relative;
+    width: 324px;
+    margin: auto;
+    min-height: 100px;
+    height: auto;
+    margin-top: 70px;
+    z-index: 9;
+    background-color: white;
+    border-radius: 18px;
+    box-shadow: 0px 2px 16px -6px rgba(89, 89, 89, 1);
+    padding-left: 18px;
+    padding-right: 18px;
+    box-sizing: border-box;
+    padding-bottom: 60px;
+    display: grid;
+}
+
+.just-placeholder{
+	position: relative;
+    float: left;
+    width: 100%;
+}
+
+.logo-ovi{
+        color: #404040;
+    font-size: 22px;
+    float: left;
+    position: relative;
+    font-family: 'Pacifico', cursive;
+    opacity: 0.95;
+    outline: none;
+    margin: auto;
+    margin-top: 43px;
+    width: 100%;
+    text-align: center;
+}
+
+.blue-V-for-logo{
+	color: #72b1ff;
+    opacity: 1;
+}
+
+.main-text-information-email{
+	font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    position: relative;
+    color: #6b6666;
+    margin: 0;
+    width: 100%;
+    float: left;
+    line-height: 23px;
+    margin-top: 26px;
+}
+
+.see{
+	display: block;
+    font-weight: 500;
+    font-size: 14px;
+    color: black;
+    padding-left: 0;
+    margin-bottom: 6px;
+}
+
+.btn-comun{
+	background-color: #688FFF;
+    color: white;
+    float: left;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    position: relative;
+    line-height: 37px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    margin: 0;
+    margin-top: 17px;
+    cursor: pointer;
+}
+
+.btn-comun:active{
+	opacity: 0.3;
+}
+
+.last-words{
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    position: relative;
+    margin: 0;
+    width: 100%;
+    float: left;
+    line-height: 23px;
+    font-size: 12px;
+    color: #999f9fe0;
+    margin-top: 32px;
+}
+
+
+@media only screen and (max-width: 375px) {
+	.main-content-div{
+		width: 288px;
+		margin-top: 60px;
+		padding-bottom: 50px;
+		border-radius: 16px;
+	    padding-left: 15px;
+	    padding-right: 15px;
+	}
+
+	.logo-ovi{
+		margin-top: 32px;
+	}
+
+	.see{
+		margin-bottom: 2px;
+	}
+
+	.last-words{
+		margin-top: 32px;
+	}
+}
+
+
+@media only screen and (max-width: 320px) {
+	.main-content-div{
+		width: 268px;
+	}
+
+}

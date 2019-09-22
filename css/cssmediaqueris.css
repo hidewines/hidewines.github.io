@@ -1,0 +1,7572 @@
+
+
+@media screen and (max-width:1200px) {
+
+    .emoji-add-product-main-div{
+        bottom: 76px;
+        right: 4%;
+    }
+
+    .porduct-options-pop-up-error{
+        display: none;
+    }
+
+    .errors-1200{
+        display: initial;
+    }
+
+
+    .flat-width{
+        width: 800px;
+        min-width: 450px;
+        min-height: 570px;
+        max-width: 450px;
+        border-radius: 10px;
+    }
+
+    .deliveryprice-another{
+        line-height: 30px;
+    }
+
+    .first-section-pop-upuser-for-real-pop-up{
+        padding-top: 6px;
+        padding-bottom: 6px;
+    }
+
+    .placeholder-for-top-icons{
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
+
+    .main-revies-placeholderg{
+        padding-top: 0;
+    }
+
+    .link-to-product-page-img{
+        margin-top: 0;
+    }
+
+    .main-content-with-review-div{
+        padding-top: 0;
+        padding-bottom: 19px;
+        margin-bottom: 25px;
+    }
+
+
+
+    .main-points-pop-min-div{
+        position: fixed;
+        width: 391px;
+    }
+
+    .one-whiteclose-pop-up-buy-minus-div{
+        right: 40px;
+        top: 30px;
+    }
+
+    .add-product-div{
+        line-height: 70px;
+    }
+
+    .someborderthing{
+        border-top: 1px solid #EFEFEF;
+    }
+
+    .sm-chat{
+        bottom: 79px;
+        right: 17px;
+    }
+
+    .sm-product-comment{
+        bottom: 82px;
+        right: 4%;
+    }
+
+    .coming-div-popopo{
+        height: 45px;
+        background-size: 20px;
+    }
+
+
+    .just-btm-none{
+        display: none !important;
+    }
+
+    .just-btm-yes-1200{
+        display: inline !important;
+    }
+
+
+
+
+    /*Gneneral*/
+
+    .sp-width-pop{
+        width: 87%;
+    }
+
+    .sp-width-pop-share{
+        width: 275px;
+    }
+
+
+
+    body{
+        overflow: inherit ;
+        background-color: white;
+        -webkit-overflow-scrolling: touch;
+
+        overflow-x: hidden;
+
+
+
+    }
+
+
+    .body-div-1{
+        height: auto;
+        position: relative;
+    }
+
+    .welcome-sp-body{
+        height: auto;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .headerdiv-asdfasdf{
+        position: fixed;
+        z-index: 10 !important;
+    }
+
+    .placeholder-for-header-1200px{
+        display: inherit;
+        position: relative;
+        float: left;
+        width: 100%;
+        height: 75px;
+    }
+
+    /*Product-Modal*/
+
+    .modal-content{
+        min-width: 420px;
+        max-width: 420px;
+        min-height: auto;
+        max-height: inherit;
+        border-radius: 9px;
+        top: inherit;
+        left: 0;
+        margin-left: inherit;
+        margin: auto;
+        margin-top: 3%;
+        margin-bottom: 3%;
+        background-color: white;
+        position: relative;
+    }
+
+    .close-pop-up-buy-minus-div{
+        background-size: 15px;
+        right: 5px;
+        top: 21px;
+    }
+
+    .popupitemstare{
+
+    }
+
+    .porduct-options-pop-up-error{
+        line-height: 55px;
+        border-bottom: 1px solid #EFEFEF;
+        border-top: 0;
+        margin: 0; 
+    }
+
+    .modalProductImage{
+        height: 420px;
+        width: 420px;
+        float: left;
+        margin: 0;
+        border-top: 1px solid #efefef;
+    }
+
+    .img-in-line{
+        height: 420px;
+        width: 420px;
+    }
+
+    .first-section-pop-upuser-for-real-pop-up{
+        width: 90%;
+        margin-left: 5%;
+    }
+
+
+
+
+    .name-country-div-user-for-real-pop-up{
+        margin-left: 7px;
+    }
+
+     .number-of-views-main-div, .points-top-in-div-popup, .arrow2, .arrow1, .arrow1, .number-of-photos-main-div {
+        opacity: 1;
+    }
+
+    .number-of-views-main-div{
+        margin-left: 4%;
+        margin-top: 4%;
+    }
+
+    .points-top-in-div-popup{
+        float: right;
+        margin-left: 0;
+    }
+
+    .arrow1{
+        right: 3%;
+        width: 38px;
+    }
+
+    .arrow2{
+        left: 3%;
+        right: inherit;
+    }
+
+    .first-section-pop-upuser-for-real-pop-up{
+        display: none;
+    }
+
+    .sp-1200-display-top-section{
+        display: inherit;
+    }
+
+    .first-most-important-content-pop-ups-for-real-pop-ups{
+        width: 100%;
+        height: auto;
+    }
+
+    .pop-up-contet-width-div-for-real-pop-up{
+        padding: 0;
+        width: 100%;
+    }
+
+    .prime-pop-up-item-selector-text{
+        font-size: 15px;
+    }
+
+    .general-feather-icon{
+        width: 25px;
+    }
+
+    .send-story{
+        width: 20px;
+    }
+
+    .selected-switch-clicked-selected-pop-up{
+        fill: white;
+    }
+
+    .heart-chh-item{
+        width: 27px;
+        stroke-width: 2.3px;
+        color: white;
+        filter: drop-shadow( 0 0px 3px #0c0c0c30);
+    }
+
+    .message-chh-item{
+        filter: drop-shadow( 0 0px 3px #0c0c0c30);
+        width: 28px;
+        color: white;
+    }
+
+    .star-chh-item{
+        width: 29px;
+        stroke-width: 1.8px;
+        filter: drop-shadow( 0 0px 3px #0c0c0c30);
+        color: white;
+    }
+
+    .bottom-icons-row{
+        margin-left: 15px;
+    }
+
+
+
+    .text-in-witchhhh{
+        line-height: 42px;
+        font-size: 13px;
+        border-top: 3px solid #999f9f36;
+        transition: 0.3s ease-in-out;
+    }
+
+    .product-div-popopo{
+        height: 45px;
+        background-size: 20px;
+    }
+
+    .selected-switch-clicked-selected-pop-up{
+
+    }
+
+    .social-div-popopo{
+        height: 45px;
+        background-size: 20px;
+    }
+
+    .intr-to-product-gradient-div{
+        border-radius: 0;
+        padding-top: 22px;
+        padding-bottom: 0;
+        border-bottom: 0;
+    }
+
+    .intr-to-product-gradient-div{
+        border-top: 0;
+        margin-top: 0;
+    }
+
+    .absolute-actions-buttons{
+        top: 17px;
+    }
+
+    .views-icon-div{
+        height: 35px;
+        width: 43px;
+        left: 1px;
+        background-size: 16px;
+    }
+
+    .like-comment-gradient-div{
+        border-radius: 0;
+    }
+
+    .selling-price-icon-div{
+        height: 27px;
+        width: 29px;
+        background-size: 28px;
+        top: 5px;
+    }
+
+    .popupitemstare{
+        font-size: 16px;
+        top: 4px;
+    }
+
+    .popupitemstare{
+        font-size: 16px;
+        top: 4px;
+    }
+
+    .popupviews{
+        font-size: 15px;
+    }
+
+    .name-of-listed-item{
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+
+
+    .name-of-the-option{
+        font-size: 14px;
+    }
+
+    .minus-product-div{
+        width: 45px;
+        height: 38px;
+        background-size: 13px;
+    }
+
+    .plus-product-div{
+        background-size: 13px;
+        width: 45px;
+        height: 38px;
+    }
+
+    .number-of-products-added-text{
+        line-height: 38px;
+        font-size: 14px;
+    }
+
+    .name-of-color-options{
+        line-height: 38px;
+        margin-left: 15px;
+        margin-right: 15px;
+        font-size: 14px;
+    }
+
+    .name-of-the-option-tochoose{
+        line-height: 38px;
+        font-size: 14px;
+    }
+
+
+
+    .main-placeholder-for-color-shape{
+        width: 34px;
+        height: 34px;
+    }
+
+    .deliveryprice-real-one{
+        font-size: 14px;
+    }
+
+    .to-where{
+            font-size: 15px;
+    }
+
+    .show--more-yo-intro{
+        font-size: 15px;
+    }
+
+
+
+    .text-of-the-hastagg{
+        font-size: 14px;
+    }
+
+    .mini-circle-view{
+        height: 24px;
+        width: 24px;
+    }
+
+    .white-back{
+        height: 24px;
+        width: 24px;
+    }
+
+    .alternative-way-of-buying{
+        font-size: 14px;
+        line-height: 36px;
+        padding-right: 30px;
+        padding-left: 16px;
+    }
+
+    .mine-item{
+        padding-right: 16px;
+    }
+
+    .edit-changes{
+        padding-right: 16px;
+    }
+
+    .chevron-for-payment{
+        width: 17px;
+    }
+
+    .arrow-paymenntt{
+        width: 33px;
+    }
+
+
+
+    .another-price-position{
+        position: relative;
+    }
+
+
+    .views-we-need{
+        line-height: 24px;
+        font-size: 14px;
+        top: 1px;
+    }
+
+    .share-chh-item{
+        width: 26px;
+    }
+
+    .bookmark-chh-item{
+        width: 26px;
+    }
+
+    .points-chh-item{
+        width: 33px;
+    }
+
+    .box-chh-item{
+        width: 25px;
+    }
+
+    .shield-chh-item{
+        stroke-width: 2.4px;
+        width: 24px;
+    }
+
+    .heart-like-icon1{
+        top: 0;
+        background-size: 33px !important;
+    }
+
+    .comment-icon1-forever{
+        top: 0;
+        background-size: 38px;
+            margin-left: 15px;
+    }
+
+    .share-background{
+        top: 0;
+        background-size: 26px;
+        margin-left: 15px;
+    }
+
+    .popupviews{
+        margin-top: 14px;
+    }
+
+    .selleritemdescription{
+        font-size: 14px;
+        padding: 0;
+        margin-top: 8px;
+        margin-bottom: 23px;
+
+
+    }
+
+    .comment-of-ovigram-users-p{
+        font-size: 14px;
+    }
+
+    .comments-textareaaa{
+            font-size: 14px;
+    }
+
+    .post-text{
+            font-size: 15px;
+    }
+
+    .comments-textareaaa{
+        width: calc( 100% - 85px );
+    }
+
+    .main-section-for-comment-background-image-try{
+        margin-bottom: 15px;
+    }
+
+    .comments-actions-div{
+        margin-top: 2PX;
+    }
+
+    .main-section-for-comment-content--text-p{
+        width: 90%;
+    }
+
+    .comment-like-mini{
+        background-size: 25px;
+    }
+
+    .pink-version{
+        background-size: 25px;
+    }
+
+    .minutes-ago{
+        font-size: 14px;
+    }
+
+    .reply-to-comment {
+        font-size: 14px;
+    }
+
+    .remove-comment {
+        font-size: 14px;
+    }
+
+    .likes-number-comment {
+        font-size: 14px;
+    }
+
+    .another-pppposition{
+        display: none;
+    }
+
+    .delivery-time-popups{
+        line-height: 35px;
+        margin-top: 14px;
+    }
+
+    .white-stars-at-product{
+        background-size: 16px;
+        bottom: 3px;
+        width: 28px;
+    }
+
+    .main-background-stars-div{
+        margin-top: 14px;
+    }
+
+    .itemdescriptionpop{
+        box-sizing: border-box;
+    }
+
+    .delivery--secction{
+        padding-left: 45px;
+    }
+
+    .protection-width{
+        width: 80%;
+    }
+
+    .informatioon-content-for-product-divik-2{
+        border-top: 1px solid #F2F2F2;
+    }
+
+    .mobile-photo-number{
+        display: inherit;
+        display: none;
+    }
+
+    .another-number-ph{
+        display: inline;
+        z-index: 9;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 15px;
+        bottom: inherit;
+        margin: auto;
+    }
+
+    .views-item-have{
+        margin-top: 16px;
+        margin-bottom: 5px;
+    }
+
+    .sp-no-margin{
+        margin-top: 15px;
+        margin-bottom: 4px;
+    }
+
+
+
+    .margin-in-minus{
+            margin-left: -2px !important;
+    }
+
+
+
+    .popupprofilename{
+        font-size: 14px;
+    }
+
+
+
+
+
+    .comments-and-000-section-main-div{
+        box-sizing: border-box;
+        padding-top: 20px;
+    }
+
+    .last-comment-section-of-the--main-div{
+        margin: 0;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .smile-emoji{
+        right: 13%;
+    }
+
+    .animoji-addprod-span{
+        width: 5.95%;
+        margin-left: 5.8%;
+    }
+
+    .no-comments-text-align-1{
+        font-size: 16px;
+    }
+
+
+
+    .pop-up-contet-width-div-for-real-pop-up{
+        overflow: hidden !important;
+    }
+
+    .comments-and-likeing-section{
+        min-height: 150px;
+    }
+
+    .itemdescriptionpop{
+        min-height: 150px;
+    }
+
+
+    .options-gradient-div{
+        border-radius: 0;
+    }
+
+
+
+    .number-of-star{
+        line-height: 31px;
+        padding-left: 14px;
+    }
+
+    .option-section-main-div{
+        display: inline;
+        padding-left: 4%;
+        padding-right: 4%;
+        box-sizing: border-box;
+        width: 100%;
+        margin: 0;
+    }
+
+    .chevron-right-chh-item{
+        width: 38px;
+    }
+
+
+
+}
+
+
+@media screen and (max-width:1150px) {
+
+    /*Chat*/
+    .main-chat-users-div{
+        width: 289px;
+    }
+
+    .actually-div-chat{
+        width: 678px;
+    }
+
+    .main-content-chat-div{
+        width: 1000px;
+    }
+}
+
+
+@media screen and (max-width:1100px) {
+
+    /*Chat*/
+    .main-chat-users-div{
+        width: 283px;
+    }
+
+    .actually-div-chat{
+        width: 590px;
+    }
+
+    .main-content-chat-div{
+        width: 900px;
+        height: 87%;
+    }
+}
+
+
+@media screen and (max-width:1085px) {
+
+    .change-stylelolo{
+        display: inline;
+        position: absolute;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+    }
+
+    .flat-width{
+        margin-bottom: 120px;
+    }
+
+    .tab-text-home{
+        display: none;
+    }
+
+    .tab-home-selector{
+        margin-top: 15px;
+    }
+
+    .another-more-one-change{
+        left: inherit;
+        right: 0;
+    }
+
+
+    .actually-div-chat{
+
+    }
+
+    .actually-mesages-div::-webkit-scrollbar{
+        width: 0px;
+    }
+    
+    .intro-pchat-txt{
+        border-bottom: 0;
+        padding-bottom: 35px;
+        font-size: 16px;
+        font-weight: 700;
+        padding-top: 40px;
+    }
+
+    .main-div-messages-intro{
+        display: none;
+    }
+
+    .comun-divs--headers{
+            float: initial;
+    position: relative;
+    margin: auto;
+    }
+
+    .user-header img{
+        width: 24px;
+        height: 24px;
+    }
+
+    .user-header{
+
+        float: initial;
+    position: relative;
+    margin: auto;
+    width: 42px;
+    height: 42px;
+    }
+
+    .comun-divs--headers{
+        height: 43px;
+    width: 43px;
+    }
+
+    .home-header-icon{
+        background: url(../img/header/home.svg) center center / cover no-repeat;
+        opacity: 0.85;
+        background-size: 52px;
+    }
+
+    .loop-header-icon{
+        background: url(../img/header/loop.svg) center center / cover no-repeat;
+        opacity: 0.85;
+        background-size: 31px;
+    }
+
+    .bag-header-icon{
+        right: 10px;
+        background: inherit;
+    }
+
+    .bell-header-icon{
+        background-size: 43px;
+    }
+
+    .add-product-icon{
+        background-size: 50px;
+    }
+
+
+    .mssg-header-icon{
+        background-size: 40px;
+        left: 10px;
+    }
+
+    .main-grey-notf-mini-div{
+        bottom: 95px;
+    }
+
+    .impportant-footer-welcome{
+        display: inline-block !important;
+    }
+
+    .hghgh4{
+        background: url(../img/header/srch.svg) center center / cover no-repeat ;
+        background-size: 33px;
+        top: 1px;
+    }
+
+
+
+    .story{
+            margin-left: 27%;
+    }
+
+
+    .disply-none-above-1085px{
+        display: none;
+    }
+
+    .bottom-div-as-placeeholder{
+        display: inline-block;
+    }
+
+    .sbx-custom{
+        width: 297px;
+    }
+
+    .comun-headers-divs{
+        width: 100%;
+    }
+
+
+    .sp-sett-108555{
+        display: inline-block;
+    }
+
+    .special-side-menu-55{
+        display: inline-block;
+    }
+
+    .settings-icon-ppprofile{
+            position: fixed;
+        top: 23px;
+        right: 25px;
+        padding: 0;
+        width: 30px;
+        z-index: 9;
+        margin-left: 0;
+        background-size: 19px;
+
+        opacity: 0.85;
+    }
+
+    .another-width-for-carusell {
+        width: 100% !important;
+    }
+
+    .arrow-placeholder-for-act, .arrow-placeholder-for-act-2{
+        display: none;
+    }
+
+
+
+
+
+
+
+    .body-div-1{
+        height: calc(100% - 150px);
+    }
+
+    .welcome-sp-body{
+        height: calc(100% - 75px);
+    }
+
+    .body-div-1::-webkit-scrollbar-thumb {
+        height: 0px;
+        border: 0px solid rgba(0, 0, 0, 0);
+    }
+    .body-div-1::-webkit-scrollbar {
+        width: 0px;
+    }
+
+    .body-div-1-for-login::-webkit-scrollbar-thumb {
+        height: 0px;
+        border: 0px solid rgba(0, 0, 0, 0);
+    }
+
+     .body-div-1-for-login::-webkit-scrollbar {
+        width: 0px;
+    }
+
+
+
+    .special-pop-up-scroll-bar::-webkit-scrollbar-thumb {
+        border: 0px solid rgba(0, 0, 0, 0);
+    }
+
+    .special-pop-up-scroll-bar::-webkit-scrollbar {
+        width: 0px;
+    }
+
+    .special-pop-up-scroll-bar{
+        -webkit-overflow-scrolling: touch;
+    }
+
+    /*Header*/
+    .special-css-above-1085px{
+        width: 100%;
+    }
+
+    .sp-right-1085{
+        float: right;
+        width: 65%;
+    }
+
+    .logo--nav-bar{
+        float: inherit;
+        text-align: center;
+    }
+
+    .special-css-above-1085px-text{
+        float: left;
+    }
+
+    .logged-sp-1085px{
+        width: 50%;
+        margin-left: 25%;
+    }
+
+    .special-css-above-1085px-text-2{
+        float: inherit;
+        text-align: center;
+    }
+
+
+    /*Bottom-Header*/
+    .bottom-header{
+        display: inherit !important;
+    }
+
+
+    /*Welcome*/
+
+    .button-to-seemore-left, .button-to-seemore-right{
+        display: none;
+    }
+
+    .img-div-start-shop-sell{
+        left: 79px;
+    }
+ 
+
+    /*
+    product:nth-child(3n) .box {
+        margin-right: 0px !important;
+    }
+    */
+
+    .box:hover .infohover, .box:hover .blue-opacity-hover, .box:hover .top-section-of-hover-div, .box:hover .background-image-heart-2, .box:hover .background-image-heart-1{
+        display: none;
+    }
+
+    .stories-overflow-main-div{
+        overflow-x: overlay;
+    }
+
+    /*Home*/
+
+    .bottom-div-as-placeeholder{
+        display: inline-block;
+    }
+
+    #number-div-notification{
+        height: 10px;
+        width: 10px;
+        bottom: -3px;
+        right: -18px;
+        left: 0;
+        border: 2px solid white;
+        opacity: 1;
+    }
+
+    #number-div-message{
+        height: 10px;
+        width: 10px;
+        bottom: -2px;
+        right: -20px;
+        left: 0;
+        border: 2px solid white;
+        opacity: 1;
+    }
+
+    #number-div-cart{
+        height: 10px;
+        width: 10px;
+        bottom: 0px;
+        right: -21px;
+        opacity: 1;
+        border: 2px solid white;
+    }
+
+
+
+    .user-icon-ppp{
+        font-size: 34px;
+    }
+
+    .cart-icon-ppp{
+        font-size: 31px;
+        bottom: 0px;
+    }
+
+    .notification-icon-ppp{
+        font-size: 30px;
+    }
+
+    .sp-1085-chat-buuble{
+        font-size: 32px;
+    }
+
+    .weneedfloatright{
+        display: none;
+    }
+
+    .we-needplleeedf{
+        display: none;
+    }
+
+    .logged-in-footer{
+        display: none;
+    }
+
+    #number-div-notification, #number-div-message, #number-div-cart{
+        top: 37px;
+        height: 6px;
+        width: 6px;
+        right: 0px;
+        border: 0px solid white;
+        display: inline !important;
+    }
+
+    #number-div-cart{
+        top: 40px;
+    }
+
+    #number-div-message{
+        right: 2px;
+        top: 37px;
+    }
+
+    .new-stylehome-icon-point{
+        right: 0px !important;
+    }
+
+    .footer-1{
+        display: none;
+    }
+
+    .load{
+        margin-bottom: 3.889%;
+    }
+
+    .right-arrow-filters{
+        display: none;
+    }
+
+    .left-arrow-filters{
+        display: none;
+    }
+
+
+    /*Welcome*/
+
+    .row-of-stories-1{
+        width: 23.71%;
+    }
+
+
+    /*User*/
+
+    .profilepicture{
+        margin-left: 28%;
+        margin-top: 59px;
+        width: 130px;
+        height: 130px;
+    }
+
+    .add-photo-dot-at-profile-icon{
+        height: 32px;
+        width: 32px;
+        background-size: 42%;
+    }
+
+    .profilerow2{
+        left: 2px;
+        min-height: 220px;
+    }
+
+
+
+    /*Notification Page*/
+    .real-row-notification-2{
+        width: 600px;
+        border-radius: 17px;
+        box-sizing: border-box;
+        margin: auto;
+        float: initial;
+    }
+
+    .rowfornotification2{
+        margin-top: 17px;
+    }
+
+    .main-filter-between-social-and-products{
+        line-height: 40px;
+    }
+
+    .main-placeholder-for-point-notf-filtr{
+        height: 40px;
+    }
+
+    .question-mark-for-notifications{
+        height: 40px;
+    }
+
+    .div-greyyy-notfic{
+        display: none;
+    }
+
+    .rowfornotification1 {
+        display: none;
+    }
+
+    .main-notification-divvv{
+        margin-top: 6%;
+        margin-bottom: 6%;
+    }
+
+    .content-in-notification-div{
+        padding-top: 18px;
+        padding-bottom: 18px;
+    }
+
+    .for-hover-class{
+        margin-top: 18px;
+    }
+
+    .mini-div-that-show-type-of-notification{
+        padding-left: 13px;
+        padding-right: 13px;
+    }
+
+    .sp-1085-row-notification{
+        position: relative;
+        width: 100%;
+        white-space: nowrap;
+        float: left;
+        overflow-x: scroll;
+        display: inherit;
+        border: 0;
+        padding: 0;
+        min-height: auto;
+        margin: 0;
+        margin-top: 6px;
+        padding-left: 4%;
+        padding-right: 4%;
+        box-sizing: border-box;
+
+        border-bottom: 1px solid #e9e9e991;
+        padding-bottom: 11px;
+        border-radius: 0;
+    }
+
+    .main-placeholder-ch{
+        padding-bottom: 0;
+        border-top: 1px solid #cfcfcf96;
+        border-bottom: 1px solid #cfcfcf96;
+    }
+
+    .imgprofilee{
+        float: left;
+        border-radius: 0;
+        border: 0;
+        background: white !important;
+        width: 50%;
+    }
+
+    .darkdark-background{
+        display: none;
+    }
+
+    .change{
+        width: 100%;
+        font-size: 13px;
+        text-shadow: none;
+        color: #3897f0;
+    }
+
+    .logout{
+        width: calc( 50% - 1px);
+        border-radius: 0;
+        border: 0;
+        border-left: 1px solid #cfcfcf96;
+        float: right;
+        margin: 0;
+        background-color: white
+    }
+
+    .filters-for-notifications-main-div{
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+        padding-top: 10px;
+        padding-bottom: 10px;
+
+        margin-left: -10px;
+        padding-left: 10px;
+        width: calc( 100% + 10px );
+        box-sizing: border-box;
+    }
+
+    .filters-for-order-main-div{
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+    }
+
+    .filters-for-notifications-main-div::-webkit-scrollbar {
+        display: none;
+    }
+
+    .filters-for-notifications-main-div::-webkit-scrollbar {
+        display: none;
+    }
+
+    .hover-div{
+            width: fit-content;
+        position: relative;
+        float: inherit;
+        padding-top: 9px;
+        padding-bottom: 9px;
+        padding-left: 20px;
+        padding-right: 20px;
+        border-radius: 43px;
+        margin-right: 15px;
+        margin-bottom: 0;
+        display: inline-block;
+        box-shadow: 0px 1px 10px -4px rgba(89, 89, 89, 0.38);
+        border: 3px solid white;
+    }
+
+    .filter-pp{
+        font-weight: 700;
+    }
+
+
+
+    .color-dot-filters-comun{
+        right: 12px;
+        display: none;
+    }
+
+    .spflno-margin{
+        margin-left: 0 !important;
+    }
+
+    /*Settings*/
+    .settings-row-nav{
+        display: none;
+    }
+
+    .settings-row-1{
+        width: 100%;
+    }
+
+    .intro-toproducts-sectiion{
+        display: none;
+    }
+
+    .settings-change-content{
+        border: 0;
+    }
+
+    .class-my-name{
+        display: none;
+    }
+
+    .hgfdsdfghgf{
+        width: 85%;
+        float: left;
+        margin-left: 7.5%;
+        border-radius: 22px;
+        box-sizing: border-box;
+        margin-bottom: 6%;
+        margin-top: 6%;
+    }
+
+    .settings-page-special-size{
+        width: 580px;
+        float: initial;
+        display: block;
+        margin: auto;
+        margin-bottom: 6%;
+        margin-top: 6%;
+    }
+
+    .settings-row-nav{
+        display: none;
+    }
+
+    .sp-1085-select-settings{
+        display: inherit;
+    }
+
+
+    .settings-row-nav{
+        width: 100%;
+        box-sizing: border-box;
+        padding: 0;
+        white-space: nowrap;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+        padding-left: 4%;
+        padding-right: 4%;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        box-sizing: border-box;
+
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .comun-menufilter-div{
+        float: initial;
+        width: fit-content;
+        padding-left: 18px;
+        display: inline-block;
+        padding-right: 18px;
+        box-shadow: 0px 1px 10px -4px rgba(89, 89, 89, 0.38);
+        border: 0;
+        border-radius: 100px;
+
+
+    }
+
+    .comun-menufilter-text{
+        line-height: 44px;
+        border: 0;
+    }
+
+    .dashboard-product{
+        width: 117px;
+        height: 117px;
+        margin-right: 18.1px;
+        margin-bottom: 18.1px;
+    }
+
+
+
+    .ad-pd-top{
+        margin-left: 10px;
+        margin-top: 0;
+    }
+
+    .main-image-payment-user{
+        bottom: 0;
+        width: 36px;
+        height: 36px;
+    }
+
+    .sp-mr-2{
+        margin-left: 10%;
+    }
+
+
+    /*Chat*/
+
+    .actually-div-chat{
+        display: none;
+    }
+
+    .main-content-chat-div{
+        width: 370px;
+    }
+
+    .main-chat-users-div{
+        width: 370px;
+        padding: 0;
+    }
+
+    .selected-chat {
+        background-color: white;
+    }
+
+    .search-conversation-div{
+            margin-top: 32px;;
+    }
+
+    .main-div-messages-intro{
+        padding-left: 21px;
+        padding-right: 21px;
+        box-sizing: border-box;
+    }
+
+    .main-intro-to-chat-list-1085{
+        display: block;
+    }
+
+    .sp-1085-chat-intro{
+        display: inherit;
+    }
+
+    .actually-div-chat{
+        width: 800px;
+    }
+
+    .special-class-width-for-real-conversation{
+        width: 800px;
+    }
+
+    .actually-mesages-div{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .chat-name{
+        font-size: 14px;
+        color: #000000f5;
+        text-align: center;
+        width: 100%;
+    }
+
+    .online-user{
+        margin-top: 2px;
+        text-align: center;
+        width: 100%;
+    }
+
+    .place-holder-for-chat-name-online{
+        width: 100%;
+        margin: 0;
+    }
+
+    .image--of-the-person-chat{
+        display: none;
+    }
+
+    .sp-chat-displ-1085-non-remove{
+        display: none;
+    }
+
+    .arrow-back-for-chat{
+        display: inline-block;
+    }
+
+
+    /*Dashboard*/
+    .class-my-name{
+        display: none;
+    }
+
+    .availabe-on-higher-resolution-devices-dash{
+        display: inline-block;
+    }
+
+    .special1085--appear-filter-dash{
+        display: inline-block;
+    }
+
+    .special-css-above-1085px-divvvv{
+        width: 30%;
+    }
+
+
+
+
+}
+
+
+@media screen and (max-width:1000px) {
+    .body-div-2{
+        max-width: 95%;
+        min-width: 95%;
+    }
+
+    .price{
+        display: none;
+    }
+
+    .ovi-qoute{
+            right: 16%;
+    }
+
+    .mockup-of-services{
+        left: 22%;
+    }
+
+    .categories-row-worldwide{
+        width: 100%;
+        white-space: nowrap;
+        overflow-x: auto;
+        overflow-y: hidden;
+        position: relative;
+        float: left;
+    }
+
+    .categories-row-worldwide::-webkit-scrollbar {
+        width: 0px;
+    }
+
+    .category-case{
+            width: 221px;
+    }
+
+
+
+
+    header{
+        max-width: 100%;
+        min-width: 100%;
+        padding-left: 2.5%;
+        padding-right: 2.5%;
+        box-sizing: border-box;
+
+    }
+
+    .just-placeholder-banner{
+        max-width: 95%;
+        min-width: 95%;
+    }
+
+    .one-of-3-tops{
+        width: 280px;
+        float: initial;
+        display: inline-block;
+    }
+
+    .box{
+        height: 18.2vw;
+        width: 18.2vw;
+        margin-right: 1vw;
+        margin-bottom: 1vw;
+    }
+
+    /*Dashboard*/
+
+
+
+}
+
+
+@media screen and (max-width:950px){
+
+
+    .just-welcome-absolute-placeholder-for-welcome-text{
+                left: -29%;
+        width: 52%;
+    }
+
+
+    /*Welcome*/
+    .background-banner-1{
+        left: -54px;
+    }
+
+    .banner-2{
+        left: 127px;
+    }
+
+    .main-first-intro-welcome-section{
+        width: 61%;
+    }
+
+    .rest-of-2-sections-welcome{
+        width: 36%;
+    }
+
+
+
+    /*Chat*/
+    .actually-div-chat{
+        width: 720px;
+    }
+
+    .special-class-width-for-real-conversation{
+        width: 720px;
+    }
+
+
+    .main-top-3{
+        padding-left: 2.5%;
+        padding-right: 2.5%;
+    }
+
+    .just-placeholder-banner{
+        max-width: 100%;
+        min-width: 100%;
+    }
+
+    .main-scetion-selector-div{
+        width: 100%;
+        margin: 0;
+        margin-top: 26px;
+    }
+
+    .try-wgy{
+        margin-left: 0;
+    }
+
+    .hashtags-text-welcome{
+        width: 100%;
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width:900px){
+    /*Welcome*/
+    .background-banner-1{
+        height: 289px;
+        width: 289px;
+        left: -54px;
+    }
+
+    .ovi-qoute{
+        right: 14%;
+    }
+
+    .mockup-of-services{
+        left: 20%;
+    }
+
+    .banner-2{
+        left: 110px;
+    }
+
+
+    .just-welcome-absolute-placeholder-for-welcome-text {
+        left: -25%;
+        width: 55%;
+    }
+
+    .story{
+        margin-left: 27%;
+    }
+
+    .made-a-mockup-2{
+        position: absolute;
+        right: 11%;
+        z-index: -9;
+    }
+
+
+}
+
+
+
+@media screen and (max-width:850px){    
+
+
+    .fixed-placeholder-for-buttons-add-item{
+        height: 60px;
+        width: 100%;
+        float: left;
+    }
+
+    .add-product-div{
+        line-height: 60px;  
+    }
+
+    .last-section-of-add-prod{
+        position: fixed;
+        bottom: 0;
+        z-index: 20;
+        background-color: #ffffffcc;
+        backdrop-filter: blur(3px);
+        -webkit-backdrop-filter: blur(3px);
+
+        border-top: 1px solid #EFEFEF;
+
+        display: none;
+    }
+
+    .anot-postion-fixed-2{
+        display: initial;
+    }
+
+
+
+
+    /*Welcome*/
+
+    .ovi-qoute{
+        position: relative;
+        left: 0;
+        margin-top: 75px;
+        width: 400px;
+        height: 88px;
+    }
+
+    .quote-text-intro{
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .app-should-come-soon{
+        display: none !important;
+    }
+
+    .switchersss{
+        height: 10px;
+    }
+
+    .white-stories-line{
+        height: 10px;
+    }
+
+    .main-welcome-main{
+        height: fit-content;
+    }
+
+    .mockup-of-services{
+        position: relative;
+        right: 0;
+        top: 0;
+        left: 0;
+        height: 443px;
+        width: 243px;
+        background-size: 242px;
+        margin-top: 78px;
+        margin-bottom: 105px;
+        z-index: 9;
+        -webkit-transform: inherit !important;
+    }
+
+    .main-scetion-selector-div{
+        width: 100%;
+        margin: 0;
+        margin-top: 26px;
+        height: 506.5px;
+    }
+
+
+
+    .appear-850px{
+        display: block;
+    }
+
+    .app-should-come-soon{
+        margin: auto;
+        float: left;
+        left: 50%;
+        margin-left: -88px;
+        margin-bottom: 65px;
+    }
+
+
+    .background-banner-1{
+        height: 275px;
+        width: 275px;
+        left: -64px;
+    }
+
+    .banner-2{
+        left: 91px;
+    }
+
+    .main-first-intro-welcome-section{
+        width: 59%;
+    }
+
+    .rest-of-2-sections-welcome {
+        width: 38%;
+    }
+
+    .text-to-welcome-users-main-div{
+        width: 94%;
+    }
+
+    .wwelcome-texxt-1{
+        line-height: 27px;
+    }
+
+    .icons-text-welccome{
+        font-size: 17px;
+        line-height: 27px;
+        width: 290px;
+
+    }
+
+
+    /*Home*/
+
+    .load{
+        margin-bottom: 2.5%;
+    }
+
+    /*User*/
+    .profilepicture{
+        margin-left: 23%;
+    }
+
+
+    /*Product-Modal*/
+    .modal-content{
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+    .modal-content-foto-change{
+        width: 350px;
+    }
+
+
+    /*Add product*/
+    .main-content-addproduct-page{
+        width: 100%;
+        margin: 0;
+        border-radius: 0;
+        left: 0;
+    }
+
+
+    /*Follow pop-up*/
+    .modal-cont-follwers-indicators{
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+
+    /*Story-Modal*/
+    .main-content-of-stories-div{
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+
+    /*Notification Page*/
+
+    /*Settings*/
+
+
+
+
+    /*Chat*/
+    .main-content-chat-div{
+        height: 82%;
+    }
+
+    .actually-div-chat{
+        width: 650px;
+    }
+
+    .special-class-width-for-real-conversation{
+        width: 650px;
+    }
+
+    .arrow-back-for-chat{
+        height: 45px;
+        background-size: 15px;
+    }
+
+
+    /*Chat*/
+    .actually-div-chat{
+        width: 550px;
+    }
+
+    .special-class-width-for-real-conversation{
+        width: 550px;
+    }
+
+
+    /*Order*/
+    .main-white-content-background-notification{
+        width: 588px;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+    .ad-grey-infomation-txt-shipping{
+        display: none;
+    }
+
+    .open-dipute-note{
+        display: none;
+    }
+
+    .confetti-background{
+        background-position-x: 95%;
+    }
+
+    .comm-div{
+        width: 265px;
+        display: inline-block;
+        float: initial;
+        margin-left: 12px;
+    }
+
+    .colorfull{
+        height: 77px;
+    }
+
+    .bckg-for-quote{
+        height: 99px;
+    }
+
+    .mr-850-commdiv{
+        margin-right: 12px;
+    }
+
+    .ovi-quote{
+        white-space: initial;
+    }
+
+
+
+
+
+    .icon-switcher{
+        top: -25px;
+    }
+
+    .switchersss{
+        box-shadow: 0px 2px 19px -2px rgba(0, 0, 0, 0.31);
+    }
+
+    .mockup-of-services{
+        overflow: initial;
+    }
+
+
+}
+
+@media screen and (max-width:860px){
+    .main-name-and-buttons-profile-div{
+        margin-top: 14%;
+    }
+
+
+}
+
+
+@media screen and (max-width:800px){
+
+
+    .main-icons-div-welcome{
+        width: 87.5px;
+    }
+
+    .wel-icon-1{
+        height: 40px;
+        width: 40px;
+    }
+
+    .wel-icon-1-percentage{
+        height: 49px;
+        width: 49px;
+    }
+
+ 
+
+    .main-icons-div-welcome-percentage{
+        width: 87.5px;
+    }
+
+
+    /*Welcome*/
+
+
+
+
+    .banner-2{
+        display: none;
+    }
+
+    .background-banner-1{
+        height: 320px;
+        width: 320px;
+        left: -32px;
+    }
+
+    .content--store-sell{
+        left: -23px;
+    }
+
+
+
+    /*Home*/
+
+    .load{
+        margin-bottom: 2.55%;
+    }
+
+    .row-of-stories-1{
+        width: 23.55%;
+    }
+
+
+    /*User*/
+
+    .profilerow1{
+        width: 30%;
+    }
+
+    .profilepicture{
+        margin-left: 17%;
+        margin-top: 59px;
+    }
+
+    .profilerow2{
+        width: 70%;
+        left: 2px;
+    }
+
+    .ul-row-list{
+        margin-top: 14px;
+    }
+    .sp-user-suggested{
+        height: calc(6.75vw + 2px);
+        width: calc(6.75vw + 2px);
+    }
+
+    /*Notification Page*/
+    .real-row-notification-2{
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    /*Settings*/
+    .hgfdsdfghgf{
+        width: 95%;
+        margin-left: 2.5%;
+    }
+
+    .settings-page-special-size{
+        width: 580px;
+        margin: auto;
+        margin-bottom: 6%;
+        margin-top: 6%;
+    }
+
+
+
+    .main-name-and-buttons-profile-div{
+        margin-top: 10%;
+    }
+
+    .story{
+            margin-left: 4%;
+            margin-top: 23px;
+                width: 160px;
+        height: 160px;
+    }
+
+    .story img{
+        width: 111px;
+        height: 111px;
+    }
+
+    .profilerow1{
+        height: 180px;
+    }
+
+
+
+    .profilerow1{
+        width: 211px !important;
+    }
+
+    .profilerow2{
+        width: calc( 100% - 211px) !important;
+    }
+}
+
+@media screen and (max-width:768px){
+
+    .user-row{
+        margin-bottom: 30px;
+    }
+
+    .follow-us-pp{
+        display: none;
+    }
+
+    /*Login*/
+    .main-loging-signup-page{
+        margin-top: 6%;
+        margin-bottom: 6%;
+    }
+
+
+    /*Product-Modal*/
+    .modal-content{
+        margin-top: 8%;
+        margin-bottom: 8%;
+    }
+
+    /*Story-Modal*/
+    .main-content-of-stories-div{
+        margin-top: 8%;
+        margin-bottom: 8%;
+    }
+
+
+    /*User*/
+
+    .profilepicture{
+        margin-left: 9%;
+        margin-top: 43px;
+        width: 137px;
+        height: 137px;
+    }
+
+    .profilerow2{
+        left: 0px;
+    }
+
+    /*Add product*/
+
+
+
+    /*Follow pop-up*/
+    .modal-cont-follwers-indicators{
+        margin-top: 8%;
+        margin-bottom: 8%;
+    }
+
+
+    /*Order*/
+    .main-white-content-background-notification{
+        margin-top: 8%;
+        margin-bottom: 8%;
+        width: 550px;
+    }
+
+
+}
+
+@media screen and (max-width:735px){
+
+    .no-products-follow-someone{
+        width: 95%;
+        margin-left: 2.5%;
+    }
+
+    .mockup-of-services{
+        display: none;
+    }
+
+    .learn-more{
+        display: inline !important;
+        margin: auto;
+        float: left;
+        left: 50%;
+        margin-left: -78.66px;
+        margin-top: 40px;
+    }
+
+    .quote-text-intro{
+        font-size: 25px;
+    }
+
+
+
+    .indicator-of-the-type-of-the-div{
+        padding-left: 3%;
+        box-sizing: border-box;
+        padding-right: 3%;
+    }
+
+    .hm-add-border{
+        margin-bottom: 15px;
+
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    .main-div-for-home-followers-stories{
+        margin-top: 15px;
+    }
+
+    .new-hashtag-position-mobile-735px{
+        display: inline;
+        display: none;
+    }
+
+
+
+    .mockup-of-services{
+
+    }
+
+    .ovi-qoute{
+        width: 309px;
+        top: 0;
+        height: 132px;
+    }
+
+    .place-holder-qoutes{
+        height: 132px;
+    }
+
+
+    .close-x-add-product{
+        height: 30px;
+        width: 30px;
+        background-size: 15px;
+        top: 14px;
+        right: 14px;
+    }
+
+    .button-left-more-sellers{
+        display: none;
+    }
+
+    .special-wwidt-forpar{
+        width: 100% !important;
+    }
+
+    .body-div-2{
+        max-width: 100%;
+        min-width: 100%;
+    }
+
+    .special-change-inorder-for-review{
+        width: 350px;
+    }
+
+    .review-rate-number-for-review{
+        display: none !important;
+    }
+
+    .main-div-of-stories-ansuggested-sellers{
+        width: 97.5%;
+        margin-left: 2.5%;
+    }
+
+    .main-side-menu-div{
+        height: calc( 100% - 135px);
+    }
+
+
+    /*Header*/
+
+    header{
+        max-width: 100%;
+        min-width: 100%;
+    }
+
+
+    /*Welcome*/
+
+
+
+
+
+ 
+
+    .load{
+        width: 95%;
+        margin-left: 2.5%;
+        margin-top: calc( 2.5% - 0.9vw );
+    }
+
+    .footer-1{
+        width: 95%;
+        margin-left: 2.5%;
+    }
+
+
+    .img-div-start-shop-sell{
+        background-size: 167%;
+        background-position-y: 99%;
+        background-position-x: 52%;
+        left: 19px;
+    }
+
+
+    .coming-soon-textt-index{
+        margin-left: 7px;
+    }
+
+    .rest-of-2-sections-welcome{
+        height: auto;
+    }
+
+    .background-banner-1{
+        left: -30px;
+        background-position-y: 34%;
+    }
+
+    .placeholder-for-welcome-st{
+        width: 95%;
+        margin-left: 2.5%;
+    }
+
+    .main-div-start-selling-on-ovigram{
+        margin-top: 30px;
+    }
+
+    .content--store-sell{
+        width: 100%;    
+        left: 35%;
+    }
+
+    .start-sell-on--ovigram{
+        text-align: left;
+    }
+
+    .start-sell-on--ovigram-2{
+        text-align: left;
+    }
+
+    .cooming-soon-app-main-div{
+        text-align: left;
+    }
+
+    .main-div-start-selling-on-ovigram{
+        width: 100%;
+        margin-left: 0;
+    }
+
+
+
+    .main-first-intro-welcome-section {
+        width: 100%;
+        border-radius: 16px;
+    }
+
+    .text-to-welcome-users-main-div{
+        width: 100%;
+        background: #3b3b3b82;
+    }
+
+    .sp-bk-1{
+        background: #3b3b3b82;
+    }
+
+
+
+    .just-welcome-absolute-placeholder-for-welcome-text{
+        left: 0;
+        width: 42%
+    }
+
+    .rest-of-2-sections-welcome{
+        width: 100%;
+        margin-top: 28px;
+        display: none;
+    }
+
+
+
+    .main-icons-div-welcome{
+        width: 88px;
+        height: 88px;
+    }
+
+    .wel-icon-1 {
+        height: 44px;
+        width: 44px;
+    }
+
+
+
+    .main-icons-div-welcome-percentage{
+        height: 88px;
+        width: 88px;
+    }
+
+    .wel-icon-1-percentage{
+        height: 50px;
+        width: 50px;
+    }
+
+
+
+
+
+    /*Home*/
+
+
+
+    .main-filter-div-in{
+        width: 97.5%;
+        margin-left: 1.25%;
+    }
+
+    .home-selector-paceholder{
+        width: 95%;
+        margin: 0;
+        margin-left: 2.5%;
+        margin-top: 25px;
+        border-radius: 10px;
+    }
+
+    .new-boss-filter-div{
+        margin-top: 15px;
+        margin-bottom: 15px;
+        width: 95%;
+        margin-left: 2.5%;
+    }
+
+    .home-sp-pl-story{
+        margin-top: 14px;
+        margin-bottom: 18px;
+        width: 100%
+    }
+
+    .stories-main-div-imp{
+            margin-right: 15px;
+    }
+
+    .name-of-post-stories{
+        font-size: 13px;
+    }
+
+
+    .main-no-stories-from-followers-hh{
+        left: 0%;
+        width: 100%;
+    }
+
+    .main-no-stories-from-followers-hh{
+        height: fit-content;
+    }
+
+    .main-img-0f--no-stories-hh{
+        top: 0;
+        width: 100%;
+        text-align: center;
+            margin-top: 36px;
+    }
+
+    .main-text-of-no-stories-hh{
+        top: auto;
+        margin-left: 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    .special-add-descrp-text-for-DD{
+
+        font-weight: 700 !important;
+        font-size: 15px !important;
+
+    }
+
+    .main-no-stories-from-followers-hh{
+        left: 0 !important;
+    }
+
+    .comun-img-for-no-stories{
+        float: initial;
+        display: inline-block;
+    }
+
+    .load{
+        margin-bottom: 23px;
+    }
+
+    .follow-filter-textt{
+        padding-left: 7%;
+        padding-right: 7%;
+    }
+
+    .row-of-stories-1{
+        width: 31.28%;
+        margin-left: 3vw;
+    }
+
+    .main-div-image-comun-stories{
+        margin-bottom: 3vw;
+    }
+
+    .height-1{
+        height: 42vw;
+    }
+
+    .height-2 {
+        height: 34vw;
+    }
+
+    .height-3 {
+        height: 38vw;
+    }
+
+    .height-5{
+        height: 32vw;
+    }
+
+    .height-6{
+        height: 33vw;
+    }
+
+    .height-7{
+        height: 38vw;
+    }
+
+    .height-9{
+        height: 36vw;
+    }
+
+    .height-10{
+        height: 37vw;
+    }
+
+    .height-11{
+        height: 39vw;
+    }
+
+    .main-stories-section{
+        width: 95%;
+    margin-left: 2.5%;
+    }
+
+    .main-div-image-comun-stories{
+        border-radius: 4px;
+    }
+
+    .main-div-image-comun-stories{
+        margin-bottom: 2vw;
+    }
+
+    .row-of-stories-1{
+        width: 31.93%;
+        margin-left: 2vw;
+    }
+    
+
+    /*User*/
+
+    .user-row{
+        width: 95%;
+        margin-left: 2.5%;
+    }
+
+    .main-name-and-buttons-profile-div{
+                margin-top: 11.8%;
+    }
+
+    .profilepicture{
+        margin-left: 0;
+        margin-top: 42px;
+        width: 15vw;
+        height: 15vw;
+    }
+
+    .online-circle-other-profile{
+        height: 19px;
+        width: 19px;
+        bottom: 5%;
+        right: 1%;
+    }
+
+    .add-photo-dot-at-profile-icon{
+        height: 30px;
+        width: 30px;
+        background-size: 42%;
+    }
+    .main-general-inf-abt-seller-main-div{
+        width: 100%;
+        margin-left: 0;
+        border-radius: 0;
+        padding: 0;
+        width: 95%;
+        margin-left: 2.5%;
+    }
+
+    .main-suggested-seller-placeholder{
+        background-color: white;
+    }
+
+    .comun-text-in-big-select{
+        margin-left: 20px !IMPORTANT;
+    }
+
+
+
+    .profilecountry{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .sp-user-735{
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    .user-row{
+        margin-bottom: 0;
+        padding-top: 10px;
+    }
+
+    .storries-main-div{
+        background-color: transparent;
+    }
+
+    .ul-row-list{
+        margin-top: 18px;
+    }
+
+    .main-reting-stars-div-place-holder{
+        margin-top: 9px;
+    }
+
+    .profilecountry{
+        width: 60%;
+    }
+
+    .ul-row-information{
+        display: none;
+    }
+
+    .sp-description-txt-735px{
+        display: inherit;
+    }
+
+    .ul-row-information{
+        margin-top: 0;
+        width: 95%;
+        float: left;
+        margin-left: 2.5%;
+    }
+
+    .profilerow2{
+        min-height: auto;
+    }
+
+    .sp-countryandminifilters-735px{
+        display: inherit;
+    }
+
+    .profilecountry-real-with-icon{
+        float: left;
+        width: auto;
+    }
+
+
+    /*Notification Page*/
+    .main-notification-divvv{
+        margin-top: 0%;
+        margin-bottom: 0%;
+    }
+
+    .real-row-notification-2{
+        border: 0;
+        width: 100%;
+        margin-left: 0%;
+        border-radius: 0;
+    }
+
+    /*Settings*/
+    .hgfdsdfghgf {
+        border: 0;
+        width: 100%;
+        margin: 0;
+    }
+
+    .settings-page-special-size{
+        width: 100%;
+        margin-bottom: 0;
+        margin-top: 6%;
+        margin: 0;
+        border: 0;
+        border-radius: 0;
+    }
+
+    .settings-row-nav{
+        margin-top: 20px;
+    margin-bottom: 20px;
+    }
+
+    .settings-change-content{
+
+    }
+
+    /*Dashboard*/
+
+    .dashboard-product{
+        width: 18.85vw;
+        height: 18.85vw;
+        margin-right: 5.1vw;
+        margin-bottom: 5.1vw;    
+    }
+
+
+
+    .story{
+        margin-left: -21px;
+        margin-top: 0;
+        width: 145px;
+        height: 145px;
+    }
+
+    .story img{
+        width: 101px;
+        height: 101px;
+    }
+
+    .profilerow1{
+        width: 134px !important;
+        height: 126px;
+    }
+
+    .profilerow2{
+        width: calc( 100% - 134px) !important;
+    }
+
+    .main-name-and-buttons-profile-div{
+            margin-top: 37px;
+    }
+
+    .sp-stories-wdth-for-no-stris{
+        width: 75%;
+        margin: auto;
+        float: initial;
+        height: auto;
+    }
+
+
+
+    header{
+        height: 60px;
+    }
+
+    .another-height{
+        height: 75px
+    }
+
+    .bottom-header{
+        height: 60px;
+    }
+
+    .bottom-div-as-placeeholder{
+        height: 60px;
+    }
+
+
+    .main-top-3{
+
+        border-radius: 0;
+        border-left: 0;
+        border-right: 0;
+        padding: 0;
+        width: 90%;
+        border: 0;
+        box-shadow: none;
+
+        margin-left: 5%;
+        margin-top: 6vw;
+    }
+
+    .hastag-from-welcome{
+        margin-right: 15px;
+        font-size: 16px;
+        box-shadow: 0px 2px 14px -2px rgba(0, 0, 0, 0.11);
+        padding-left: 15px;
+        padding-right: 15px;
+        line-height: 45px;
+    }
+
+    .category-name{
+        font-size: 16px;
+    }
+
+    .appear-850px{
+        
+        margin-left: -99px;
+    }
+
+    .soonn{
+        font-size: 16px;
+    }
+
+    .world-yo-intro{
+        font-size: 19px;
+        color: #131212;
+    }
+
+    .main-scetion-selector-div{
+        width: 100%;
+        border-radius: 0;
+        margin: 0;
+
+        height: 364px;
+        overflow: inherit;
+        margin-bottom: 0;
+        box-shadow: none;
+    }
+
+    .main-scetion-selector-div{
+        border-radius: 16px;
+        overflow: hidden;
+        box-shadow: 0px 2px 19px -2px rgba(0, 0, 0, 0.22);
+    }
+
+
+
+    .hashtags-text-welcome{
+        display: none;
+    }
+
+    .appear-735{
+        display: inline;
+    }
+
+    .hashtags-text-welcome{
+        position: relative;
+        top: 70%;
+        width: 100%;
+        z-index: 0;
+        margin-left: 2.5%;
+        padding-top: 25px;
+        margin-top: -25px;
+        padding-bottom: 25px;
+        margin-bottom: -25px;
+        width: calc(100% + 2.5% );
+        padding-left: 2.5%;
+        left: -2.5%;   
+    }
+
+    .try-wgy{
+        margin-top: -25px;
+        padding-bottom: 20px;
+        padding-top: 25px;
+    }
+
+    .categories-row-worldwide{
+        width: 97.5%;
+        margin-left: 2.5%;
+    }
+
+    .try-wgy{
+        padding-bottom: 27px;
+        padding-top: 25px;
+    }
+
+    .row-introoo{
+        box-sizing: border-box;
+        padding-left: 2.5%;
+        padding-right: 2.5%;
+        margin-bottom: 10px;
+        margin-top: 34px;
+    }
+
+    .show-case{
+        margin-top: 15px;
+        margin-bottom: 32px!important;
+        width: 95%;
+        margin-left: 2.5%;
+        height: 55px;
+        border-radius: 9px;
+        box-sizing: border-box;
+    }
+
+    .please-just-click-utton{
+        line-height: 55px;
+    }
+
+    .arroww-to-joinn{
+        height: 55px;
+    }
+
+    .made-a-mockup-2{
+        display: none;
+    }
+
+    .box{
+        height: 19.2vw;
+        width: 19.2vw;
+    }
+
+    .ovi-qoute{
+        margin-top: 75px;
+    }
+
+
+
+
+    .category-name{
+        margin-right: 85px;
+    }
+
+    .category-case {
+        width: fit-content;
+    }
+
+
+}
+
+@media screen and (max-width:700px){
+
+
+    .main-grey-notf-mini-div{
+        width: 460px;
+    }
+
+    /*Welcome*/
+
+    .background-banner-1{
+        left: -2%;
+        width: 268px;
+        background-position-y: 49%;
+    }
+
+    .content--store-sell{
+        left: 34%;
+    }
+
+    .placeholder-for-welcome-st{
+        margin-bottom: 8px;
+    }
+
+
+    /*Order*/
+
+    .comun-code-for-div-histroy-section-orders{
+        padding-left: 13px;
+        padding-right: 13px;
+    }
+
+    .successfully-delivered-icon-in-line{
+        margin-left: 0;
+    }
+
+    .refused-order-icon-in-line{
+        margin-left: 0;
+    }
+
+    .comun-code-for-div-histroy-section-orders{
+        margin-left: 12px;
+    }
+
+}
+
+@media screen and (max-width:650px){
+
+
+    .send-plane-msg-650px{
+        display: inline-block;
+    }
+
+    .modal-content-foto-change{
+        width: 310px;
+    }
+
+    .message-cm-text-cm{
+        width: 60%;
+    }
+
+    .one-whiteclose-pop-up-buy-minus-div{
+        right: 11px;
+        top: 10px;
+    }
+
+
+    /*Welcome*/
+
+
+    .content--store-sell{
+        left: 30%;
+    }
+
+    .background-banner-1{
+        left: -7%;
+        background-position-y: 60%;
+    }
+
+    .start-sell-on--ovigram{
+        font-size: 24px;
+    }
+
+    .coming-soon-textt-index{
+        padding-left: 13px;
+        padding-right: 13px;
+        margin-left: 7px;
+    }
+
+    .less-padding-banner{
+        padding-left: 2px;
+    }
+
+    .dot-at-footer{
+        margin-left: 5px;
+        margin-right: 9px;
+    }
+
+    .links-to-pages-ffooter-main-div{
+        width: 100%;
+            text-align: center;
+    }
+
+    .footerp{
+        float: initial;
+        padding-left: 7px;
+        padding-right: 7px;
+    }
+
+    .footerp{
+        margin: 0!important;
+    }
+
+    .sp-65000px{
+        margin-right: 0;
+    }
+
+    .main-div-sp-550px-footer-social{
+        text-align: center;
+    }
+
+    .comun-background-vw-facebook{
+        float: initial;
+        margin-top: 10px;
+    }
+
+    .main-icons-div-welcome{
+        background-color: inherit;
+
+    }
+
+ 
+
+    .rest-of-2-sections-welcome{
+        margin-top: 21px;
+    }
+
+    .just-welcome-absolute-placeholder-for-welcome-text{
+        width: 255px;
+    }
+
+
+    /*Home*/
+
+
+    .follow-filter-textt{
+        padding-left: 9%;
+        padding-right: 9%;
+    }
+
+
+    /*User*/
+
+    .profilepicture{
+        width: 16.5vw;
+        height: 16.5vw;
+    }
+
+    .sp-user-suggested{
+        height: calc(8vw + 2px);
+        width: calc(8vw + 2px);
+    }
+
+    .ul-row-information{
+        width: 81%;
+    }
+
+    .withdraww-but-prop{
+        margin-left: 10px;
+    }
+
+
+
+    .withdraww-but-prop{
+        margin-left: 8px;
+    }
+
+    .profilecountry{
+        margin-top: 22px;
+    }
+
+    .profilecountry{
+        width: 85%;
+    }
+
+    .main-no-stories-from-followers-hh{
+        left: 15%;
+    }
+
+
+    /*Chat*/
+    .special-class-width-for-real-conversation{
+        width: 78%;
+    }
+
+    .actually-div-chat{
+        width: 100%;
+    }
+
+    /*Dashboard*/
+
+    .dashboard-product{
+        width: 21vw;
+        height: 21.1vw;
+        margin-right: 2.1vw;
+        margin-bottom: 2.1vw;    
+    }
+
+
+
+    /*Order*/
+
+    .comun-code-for-div-histroy-section-orders{
+        padding-left: 12px;
+        padding-right: 12px;
+        margin-left: 12px;
+    }
+
+
+
+
+}
+
+@media screen and (max-width:600px){
+
+
+
+
+    .for-cart{
+        width: 90%;
+    }
+
+
+
+    .grey-back-for-general-pop-up{
+        position: fixed;
+    }
+
+    /*Welcome*/
+
+    .story-inf-back{
+        border-radius: 0px;
+        padding: 26px;
+    }
+
+    .full-white-pop-up--600px-1{
+        background-color: white;
+    }
+
+    .some-600px-changes{
+        width: 100%;
+        border-radius: 0;
+        margin-top: 0;
+        box-shadow: none;
+    }
+
+    .full-white-pop-up--600px-2{
+        box-shadow: none;
+    }
+
+
+
+
+ 
+
+    .box{
+        height: 32.53vw;
+        width: 32.53vw;
+        margin-right: 1.2vw !important;
+        margin-bottom: 1.2vw;
+    }
+
+    product:nth-child(3n) .box {
+        margin-right: 0px !important;
+    }
+
+    .load{
+        margin-top: 15px;
+    }
+
+    .placeholder-for-welcome-st{
+        margin-top: 20px;
+    }
+
+    .background-banner-1{
+        position: relative;
+        width: 200px;
+        height: 210px;
+        float: left;
+        background-size: 271%;
+        background-position-y: 23%;
+        left: 4%;
+    }
+
+    .banner-2{
+        background-position-y: 12%;
+        left: -4%;
+        display: initial;
+    }
+
+    .coming-soon-textt-index{
+        background-color: #ffffff38;
+        padding-left: 14px;
+        padding-right: 14px;
+    }
+
+    .less-padding-banner{
+        padding-left: 4px;
+    }
+
+    .coming-soon-textt-index{
+        margin-left: 16px;
+    }
+
+    /*Home*/
+
+
+
+    /*User*/
+
+
+    .profilepicture{
+        width: 18vw;
+        height: 18vw;
+    }
+
+
+    .ul-row-information{
+        width: 87%;
+    }
+
+
+
+    .main-no-stories-from-followers-hh{
+        left: 11%;
+    }
+
+    .profilecountry{
+        width: 82%;
+    }
+
+
+    /*Add product*/
+
+    .main-content-addproduct-page{
+        width: 100%;
+        margin: 0;
+        border-radius: 0;
+    }
+
+    .main-content-addproduct-page-placeholder-and-padding{
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .main-grey-add-post-intro-divss{
+        margin-left: 4%;
+    }
+
+
+
+    .main-div-for-hashtags{
+        width: 92%;
+        margin-left: 4%;
+    }
+
+    .main-notice-text-about-options{
+        width: 92%;
+        margin-left: 4%;
+    }
+
+    .tap-to-add-product-options{
+        border-left: 0px;
+        border-right: 0px;
+        border-radius: 0px;
+        line-height: 56px;
+    }
+
+    .special-options-padding{
+        border-left: 0px;
+        border-right: 0px;
+        border-radius: 0px;
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .min-max-for-selector{
+        background-color: #bfbcbc14;
+    }
+
+    .main-grey-add-post-intro-divss{
+        margin-left: 4%;
+    }
+
+    .for-counter-numbers{
+        margin-right: 4%;
+    }
+
+    .main-content-addproduct-page-placeholder-and-padding{
+        width: 100%;
+    }
+
+
+    .two1{
+        width: 56px;
+        height: 56px;
+    }
+
+    .photosvg{
+        width: 56px;
+        height: 56px;
+        background-size: 33% !important;
+    }
+
+    .imgPreview{
+        width: 56px;
+        height: 56px;
+        margin-left: 11px;
+        box-sizing: border-box;
+    }
+
+    .tap-to-add-product-options{
+        background-position-x: 93%;
+    }
+
+    .mini-grey-text-add-prod{
+        display: none;
+    }
+
+
+    /*Follow pop-up*/
+    .modal-cont-follwers-indicators{
+        width: 450px;
+    }
+
+
+    /*Cart*/
+    .sp-600-change-cart{
+        width: 100% !important;
+        margin-top: 0% !important;
+        margin-bottom: 0% !important;
+        border-radius: 0 !important;
+        box-shadow: none !important;
+    }
+
+    /*
+    .main-notification-scroll-div-in-pop-up{
+        background-color: white !important;
+    }
+
+    */
+
+    .another-total-price{
+        font-size: 13px;
+    }
+
+    .review-the-products{
+        font-size: 13px;
+    }
+
+    .erros-on-checkout-text{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    /*Settings*/
+
+
+    /*Order*/
+    .main-white-content-background-notification{
+        width: 100%;
+        border-radius: 0;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+
+    /*Dashboard*/
+    .paypal-email-input-actv{
+        width: 53%;
+    }
+
+    .dot-transactions{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .special-margin-dash-dot-trans{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .status-of-the-transactions{
+        padding-left: 11px;
+        padding-right: 11px;
+    }
+
+    .added-price-div{
+        padding-right: 11px;
+        padding-left: 1px;
+    }
+
+    .comun-withou-icon{
+        padding-left: 11px;
+    }
+
+    /*Footer page pop-up*/
+    .main-pl-pd-div{
+        padding: 5%;
+    }
+
+    .mai-section-for-text-ft{
+        margin-top: 5%;
+    }
+
+
+}
+
+
+
+@media screen and (max-width:550px){
+
+
+
+    .main-general-inf-abt-seller-main-div{
+        margin-bottom: 0;
+        margin-top: 15px;
+    }
+
+    .dispp-none-bars-550px{
+        display: none;
+    }
+
+    .new-pos-for-bars-welcome{
+        display: inline;
+    }
+
+    .icon-switcher{
+        top: 23px;
+        width: 90%;
+        margin-right: 5%;
+    }
+
+    .switchersss{
+        height: 9px;
+        box-shadow: none;
+        width: 31%;
+    }
+
+    .white-stories-line{
+        height: 9px;
+    }
+
+    .antoher-icon-heart{
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+
+    .ovi-qoute{
+        margin-top: 75px;
+        width: 272px;
+        top: 0;
+        height: 132px;
+    }
+
+    .place-holder-qoutes{
+            height: 132px;
+    }
+
+    .quote-text-intro{
+        font-size: 24px;
+            line-height: 41px;
+    }
+
+    .learn-more{
+        margin-top: 35px;
+    }
+
+    .main-scetion-selector-div{
+        height: 348px;
+    }
+
+    .world-yo-intro{
+        font-size: 18px;
+    }
+
+    .welcome-sp-pl-story{
+        width: 97.5%;
+        margin-left: 2.5%;
+    }
+
+    .sssppp-width-welcome{
+        width: 95%;
+        margin-left: 2.5%;
+    }
+
+
+    .main-hastag-div-searched{
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .main-users-div-search{
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .sbx-custom__input{
+        border: 0px;
+        background-color: white;
+        border-radius: 0px;
+        width: 100%;
+        height: 75px;
+        font-size: 14px;
+        padding-left: 0;
+    }
+
+    .sbx-custom__input::placeholder {
+        text-align: inherit;
+        font-size: 14px;
+    }
+
+    .sbx-custom{
+        width: 100%
+    }
+
+    .name-of-user-also-with-link{
+        font-size: 14px;
+        margin-top: 4px;
+    }
+
+    .number-of-product-for-scheared-user{
+        font-size: 12px;
+        margin-top: 6px;
+    }
+
+    .main-backoud-searched-userd{
+        height: 45px;
+        width: 45px;
+    }
+
+    .main-user-name-searched-placeholder{
+        width: calc(100% - 65px);
+        margin-left: 15px;
+    }
+
+    .cancel-search{
+        z-index: 9;
+        right: 0%;
+        font-size: 14px;
+        display: inline;
+    }
+
+    .scroll-search-resultsss{
+
+    }
+
+    .results{
+        position: fixed;
+        top: 76px;
+        height: calc(100% - 134PX);
+        border-radius: 0;
+        width: 100%;
+        z-index: 999;
+    }
+
+    .square-div{
+        display: none;
+    }
+
+    .products-search-main-div{
+            position: relative;
+        float: left;
+        width: 100%;
+        height: auto;
+        padding-bottom: 45px;
+        padding-top: 45px;
+    }
+
+    .product-name-tap{
+        font-size: 16px;
+    }
+
+    .product-quantity-tap{
+        font-size: 14px;
+            margin-top: 10px;
+    }
+
+    .no-such-users-search{
+        font-size: 15px;
+        padding-top: 55px;
+    }
+
+    .placeholder-for-search-loader{
+        display: none !important;
+    }
+
+    .scroll-search-resultsss{
+        background-color: white;
+        border: 0;
+        border-radius: 0;
+        padding-left: 4%;
+        padding-right: 4%;
+        box-sizing: border-box;
+    }
+
+    .results:before{
+        display: none;
+    }
+
+    .seller-account-activate{
+        padding-right: 15px;
+    }
+
+    .userfollowname{
+        width: calc( 100% - 63px);
+    }
+
+    .profilenumbers{
+        color: #13121252;
+    }
+
+    .save-seller-account-changes{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    /*Welcome*/
+    .sp-bottom-header{
+        width: 50.3%;
+    }
+
+    .no-footer-margin-550{
+        margin-left: 0;
+    }
+
+    .background-img-icon-instagram{
+        margin-left: 13px;
+    }
+
+    .follow-us-pp{
+        display: none;
+    }
+
+
+
+
+    /*Home*/
+
+    .search-result-products-text{
+        margin-left: 27px;
+    }
+
+    .search-result-products-number{
+        margin-right: 27px;
+    }
+
+    .close-pop-up-buy-minus-div{
+        right: 5px;
+        top: 15px;
+    }
+
+    .popupprofilename{
+        font-size: 14px;
+    }
+
+    .follow-user-in-user-name{
+        font-size: 14px;
+    }
+
+
+    .popupUserImage-for-real-pop-up-with-story-on{
+        width: 42px;
+        height: 42px;
+    }
+
+
+    .main-point-in-product{
+        height: 44px;
+    }
+
+    .follow-user-in-user-name{
+        line-height: 44px;
+    }
+
+
+
+
+
+    /*Product-Modal*/
+
+
+
+
+
+
+    .follow-user-in-user-name{
+        font-size: 15px;
+    }
+
+
+
+    .like-comment-gradient-div{
+        padding-bottom: 5%;
+    }
+
+    .heart-like-icon1{
+        top: 2px;
+    }
+
+    .comment-icon1-forever{
+        top: 2px;
+    }
+
+    .smile-emoji{
+        margin-right: 15px;
+    }
+
+    .options-gradient-div{
+        padding-bottom: 5%;
+    }
+
+
+
+    .number-of-star{
+        margin-top: 11px;
+    }
+
+
+
+
+    /*User*/
+
+    .main-reting-stars-div-place-holder{
+        margin-top: 6px;
+        margin-bottom: 0;
+    }
+
+    .ul-row-list{
+        display: none;
+    }
+
+    .ul-row-list{
+        margin-top: 17px;
+        background: white;
+        text-align: center;
+        border-radius: 0;
+        border: 0;
+        border-top: 1px solid #e9e9e97a;
+        width: 95%;
+        margin-left: 2.5%;
+    }
+
+    .profilenumbers{
+        line-height: 26px;
+        margin: 0;
+        width: 32%;
+        padding-top: 16px;
+        padding-bottom: 18px;
+        font-size: 14px;
+    }
+
+    .selected-type-of-feed::after{
+        opacity: 0;
+    }
+
+    .indicator-of-the-type-of-the-div{
+        border-top: 1px solid #e4e4e49c;
+    }
+
+    .profilecountry{
+        width: 84%;
+        font-size: 14px;
+    }
+
+    .profilecolornumber{
+        font-size: 18px;
+
+    }
+
+    .profilecolornumber{
+        display: block;
+        margin: 0;
+    }
+
+    .profilepicture{
+        width: 100px;
+        height: 100px;
+    }
+
+    .profilepicture{
+        margin-top: 0;
+    }
+
+    .online-circle-other-profile{
+        height: 17px;
+        width: 17px;
+    }
+
+
+
+    .profilename{
+        display: block;
+        width: 100%;
+        margin-bottom: 5px;
+        font-size: 17px;
+    }
+
+    .main-placeholder-for-point-notf-reall-user567{
+        display: none;
+    }
+
+    .sp-usernumbers-550{
+        display: inherit;
+    }
+
+    .user-row{
+        margin-bottom: 0;
+    }
+
+    .sp-countryandminifilters-735px{
+        margin-top: 20px;
+    }
+
+    .ul-row-information{
+        width: 91%;
+    }
+
+    .add-photo-dot-at-profile-icon{
+        bottom: 0%;
+        right: -7%;
+    }
+
+    .sp-user-suggested{
+        height: calc(9vw + 2px);
+        width: calc(9vw + 2px);
+    }
+
+    .main-no-stories-from-followers-hh{
+        left: 12%;
+    }
+
+    .profilecountry{
+        margin-top: 17px;
+        line-height: 24px;
+        margin-bottom: 0;
+    }
+
+    .main-stories-allview-place{
+        margin-right: 17px;
+    }
+
+
+
+
+
+
+    /*Add product*/
+
+    .stock-your-shop-or-story-text-main{
+    }
+
+    .text-comun-inselect-divss-stor-prod{
+        font-size: 15px;
+        line-height: 55px;
+    }
+
+
+
+    .two1{
+        width: 9.2vw;
+        height: 9.2vw;
+    }
+
+    .photosvg{
+        width: 9.2vw;
+        height: 9.2vw;
+        background-size: 35% !important;
+    }
+
+    .imgPreview{
+        width: 9.2vw;
+        height: 9.2vw;
+        margin-left: 1.99vw;
+        box-sizing: border-box;
+    }
+
+    .tap-to-add-product-options{
+        background-size: 17px;
+        background-position-y: 53%;
+    }
+
+
+
+    .main-eror-main-section{
+        margin-bottom: 25px;
+        padding-top: 19px;
+        padding-bottom: 19px;
+        background-position-x: 93%;
+        background-size: 20px;
+        padding: 20px;
+    }
+
+    .eror-text-email-verify-first{
+        font-size: 12px;
+    }
+
+
+
+    .another-width{
+        width: 45%;
+    }
+
+    .anth-left{
+        left: 7%;
+    }
+
+
+    /*Follow pop-up*/
+    .modal-cont-follwers-indicators{
+        margin-top: 12%;
+        margin-bottom: 12%;
+    }
+
+    .intro-text-follows-information{
+        line-height: 59px;
+    }
+
+    .text-first-as-seller-and-buyer{
+        font-size: 13px;
+        line-height: 49px;
+    }
+
+    .select-23-reviewss-main-div{
+        margin-bottom: 25px;
+    }
+
+
+    /*Story-Modal*/
+
+    /*Chat*/
+    .special-class-width-for-real-conversation{
+        width: 90%;
+    }
+
+    .add-smile-to-send{
+        width: 24px;
+        margin-right: 10px;
+        margin-left: 12px;
+    }
+
+
+    .product-picture-chat-link{
+        width: 54px;
+        height: 54px;
+        border-radius: 14px;
+    }
+
+    .comun-status-of-order-in-chat-indicatior{
+        line-height: 22px;
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+    .main-content-chat-order-place-holder{
+        width: calc( 100% - 66px );
+        margin-left: 12px;
+    }
+
+    .order-intro-text{
+        font-size: 11px;
+        margin-bottom: 10px;
+    }
+
+    .product-price-in-chat-order{
+        display: none;
+    }
+
+    .status-showmore-place-holder{
+        margin-bottom: 10px;
+    }
+
+    /*Dashboard*/
+
+
+    /*Cart*/
+    .erros-on-checkout-text{
+        width: 70%;
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+
+
+    /*Order*/
+
+    .main-content-sections-cpmun-not-popups{
+        padding: 4%;
+    }
+
+    .story{
+        margin-left: -14px;
+        margin-top: 0;
+        width: 111px;
+        height: 111px;
+    }
+
+    .story img{
+        width: 75px;
+        height: 75px;
+    }
+
+    .main-name-and-buttons-profile-div{
+        margin-top: 20px;
+    }
+
+    .story{
+        margin-left: -14px;
+        margin-top: 0;
+        width: 111px;
+        height: 111px;
+    }
+
+    .profilerow2{
+        width: calc( 100% - 115px) !important;
+    }
+
+    .profilerow1{
+            width: 115px !important;
+        height: 103px;
+    }
+
+    .profilename{
+        font-weight: 600;
+    }
+
+
+
+
+
+
+}
+
+@media screen and (max-width:550px){
+
+    .profilename {
+        display: none;
+    }
+
+    .follow-mainnn-button{
+        width: 45%;
+        text-align: center;
+        line-height: 36px;
+        padding: 0;
+    }
+
+
+    .unfollow-special-grey{
+        line-height: 34px;
+    }
+
+    .main-div-contactseller-profile{
+        width: 24.5%;
+        height: 36px;
+    }
+
+    .add-a-product-my-sprofile{
+        width: 31%;
+        border-radius: 36px;
+        height: 36px;
+    }
+
+    .sppp-wwidth {
+    width: 23%;
+}
+
+    .withdraww-but-prop{
+        width: 32%;
+        border-radius: 36px;
+        margin-left: 2%;
+        height: 36px;
+    }
+
+    .other-rvw{
+        width: 32%;
+        border-radius: 36px;
+        margin-left: 2%;
+        height: 36px;
+        background-position-y: 5px;
+    }
+
+    .sp-usernumbers-550{
+        margin-top: 0;
+        border: 0;
+        margin-left: 0;
+        width: 100%;
+        margin-bottom: 6px;
+    }
+
+    .profilenumbers{
+        font-size: 11px;
+        padding: 0;
+        line-height: 22px;
+    }
+
+    .profilecolornumber{
+        font-size: 19px;
+    }
+
+    .user-row{
+        padding-top: 15px;
+    }
+
+    .main-name-and-buttons-profile-div{
+        margin-top: 17px;
+    }
+
+    .profilecountry{
+        font-size: 15px;
+
+        margin-top: 20px;
+        line-height: 28px;
+        margin-bottom: 30px;
+    }
+
+    .main-general-inf-abt-seller-main-div{
+        margin-bottom: 30px;
+        margin-top: -10px;
+    }
+
+    .spchgg{
+        width: 24.5%;
+        height: 36px;
+    }
+
+}
+
+
+@media screen and (max-width:500px){
+
+    .special-add-welcome-snap{
+        margin-right: 5px;
+    }
+
+    .chevron-story{
+        display: none;
+    }
+
+    .name-of-listed-item{
+        display: none;
+    }
+
+    .main-switch-div-pop-upcontent{
+        display: none;
+    }
+
+    .last-comment-section-of-the--main-div{
+        display: none;
+    }
+
+    .new-position-div-1{
+        display: inherit;
+    }
+
+    .formall{
+        padding-top: 11px;
+        padding-bottom: 11px;
+    }
+
+    .pl-for-500-header-item{
+        position: relative;
+        float: left;
+        height: 50px;
+        width: 100%;
+    }
+
+    .main-switch-div-pop-upcontent{
+        position: fixed;
+        bottom: 0;
+        z-index: 20;
+        background-color: #ffffffcc;
+        backdrop-filter: blur(3px);
+        -webkit-backdrop-filter: blur(3px);
+        margin-bottom: 0;
+        border-bottom: 0;
+    }    
+
+    .main-arrow-left-item-div-500{
+        position: fixed;
+        top: 0;
+        background-color: #ffffffcc;
+        backdrop-filter: blur(3px);
+        -webkit-backdrop-filter: blur(3px);
+        margin-bottom: 0;
+        z-index: 21;
+        height: 49px;
+    }
+
+    .name-of-listed-ite{
+        display: none;
+    }
+
+    .absolute-story{
+        margin-bottom: 20px;
+    }
+
+    .absolute-shadow{
+        height: 19%;
+    }
+
+    .main-content-of-stories-div{
+        margin: 0;
+        position: inherit;
+        display: inline;
+        float: left;
+        width: 100%;
+    }
+
+    .intro-to-story-content-div{
+        position: absolute;
+        top: 40px;
+        left: 0;
+        z-index: 26;
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    .seller-background-image-story-pop-up{
+        width: 36px;
+        height: 36px;
+    }
+
+    .seller-username-of-story-pop-up{
+        font-size: 15px;
+        line-height: 36px;
+        line-height: 36px;
+        text-shadow: 0px 1px 3px #00000026;
+    }
+
+    .paused{
+        height: 36px;
+    }
+
+    .real-story-ss{
+        border-radius: 0;
+    }
+
+    .close-button-of-story-pop-up{
+        position: absolute;
+        height: 23px;
+        width: 23px;
+        right: 0;
+        bottom: 0;
+        top: 0;
+        margin: auto;
+        background-size: 15px;
+    }
+
+
+
+    .main-image-of-stories-post{
+        position: fixed;
+        height: 100%;
+        width: 100%;
+        top: 0;
+        border-radius: 0;
+        background-color: transparent !important;
+    }
+
+    .last-comment-section-of-the--main-div{
+        border-top: 1px solid #EFEFEF;
+    position: fixed;
+    bottom: 49px;
+    background-color: #ffffffcc;
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    z-index: 20;
+    }
+
+    .btnpop{
+        background-color: #ffffffcc;
+        backdrop-filter: blur(3px);
+        -webkit-backdrop-filter: blur(3px);
+    }
+
+    .informatioon-content-for-product-divik-2{
+        height: 60px;
+        border: 0;
+    }
+
+    .div-0f-btm-btns{
+        border-top: 1px solid #F2F2F2;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+        width: 100%;
+        height: fit-content;
+        z-index: 99;
+    }
+
+
+    .story-mini-circle-view{
+        height: 26px;
+        width: 26px;
+    }
+
+    .circle-height-placeholder{
+        height: 26px;
+    }
+
+    .highlight-it-svg{
+        height: 26px;
+        width: 23px;
+    }
+
+    .story-views-we-need{
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+
+
+
+
+    .special-margin-welcome-snap{
+        margin-right: 2px;
+    }
+
+
+    .main-arrow-left-item-div-500{
+        display: block;
+    }
+
+    .prime-information-div-notification{
+        width: calc( 100% - 69px );
+    }
+
+    .absolute-points-popu{
+        position: fixed;
+    }
+
+    .dashboard-product{
+        width: 20.8vw;
+        height: 20.8vw;
+    }
+
+    .available-funds-blue-placeholder{
+            width: 32.9%;
+    }
+
+    .message-cm-text-cm{
+        width: 57%;
+        margin-top: 9px;
+    }
+
+
+
+
+    .learn-moreee{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .headline-text-cm{
+        width: 90%; 
+    }
+
+
+    .main-grey-notf-mini-div{
+        width: 385px;
+    }
+
+
+    .ds-n-o{
+        display: none;
+    }
+
+
+    .justdisplay-none-txt{
+        display: none;
+    }
+    /*Welcome*/
+
+
+    .img-div-start-shop-sell{
+        background-size: 97%;
+        background-position-x: 0%;
+    }
+
+    .start-sell-on--ovigram{
+        font-size: 22px;
+    }
+
+
+   
+
+    .intro-to-welcome-sect-p{
+        font-size: 13px;
+    }
+
+    .watch-text-p-st{
+        font-size: 13px;
+    }
+
+    .watchicon-st{
+        background-size: 53%;
+    }
+
+    .coming-soon-textt-index{
+        margin-left: 10px;
+    }
+
+
+
+
+
+    .main-icons-div-welcome{
+        width: 100%;
+        margin-top: 12px;
+    }
+
+    .main-icons-div-welcome-percentage{
+        width: 100%;
+        margin-top: 12px;
+    }
+
+    .wel-icon-1{
+        height: 55px;
+        width: 55px;
+    }
+
+    .wel-icon-1-percentage{
+        height: 61px;
+        width: 61px;
+        background-size: 33%;
+        border-radius: 17px;
+    }
+
+    .rest-of-2-sections-welcome{
+        margin-top: 16px;
+    }
+
+
+
+
+    /*Home*/
+
+
+
+    .number-of-filter-products{
+        margin-top: 4px;
+    }
+
+
+
+    .follow-filter-textt{
+        padding-left: 9%;
+        padding-right: 9%;
+    }
+
+    .no-products-pp{
+        line-height: 85px;
+        font-size: 13px;
+    }
+
+    .icon-for-no-products-just-img{
+        height: 85px;
+        width: 85px;
+    }
+
+    .load{
+        line-height: 50px;
+    }
+
+    .height-1{
+        height: 44vw;
+    }
+
+    .height-2 {
+        height: 36vw;
+    }
+
+    .height-3 {
+        height: 41vw;
+    }
+
+    .height-5{
+        height: 35vw;
+    }
+
+    .height-6{
+        height: 34vw;
+    }
+
+    .height-7{
+        height: 40vw;
+    }
+
+    .height-9{
+        height: 38vw;
+    }
+
+    .height-10{
+        height: 39vw;
+    }
+
+    .height-11{
+        height: 42vw;
+    }
+
+
+
+    /*User*/
+
+    .profilepicture{
+        width: 100px;
+        height: 100px;
+    }
+
+    .add-photo-dot-at-profile-icon{
+        height: 27px;
+        width: 27px;
+    }
+
+    .ul-row-information{
+        width: 95%;
+    }
+
+    .made-a-mockup{
+        height: 189px;
+        width: 212px;
+        background-size: 211px;
+        background-position-y: -12px;
+        left: calc( 50% - 106px );
+        top: 0;
+    }
+
+
+
+
+    /*Add product*/
+
+
+
+
+    .two1{
+        width: 9.9vw;
+        height: 9.9vw;
+    }
+
+    .photosvg{
+        width: 9.9vw;
+        height: 9.9vw;
+        background-size: 34% !important;
+    }
+
+    .imgPreview{
+        width: 9.9vw;
+        height: 9.9vw;
+        margin-left: 2.2vw;
+    }
+
+    .remove-img{
+        width: 15px;
+        height: 15px;
+    }
+
+    .hastags-divv{
+        margin-right: 8px;
+        margin-top: 10px;
+    }
+
+    .exclamation-addproduct-text-error{
+        font-size: 12px;
+    }
+
+    .useless-text-display-none-500px{
+        display: none;;
+    }
+
+    .div-for-unsuccessfully-posted-product{
+        margin-left: 20px;
+    }
+
+    .main-notice-text-about-options{
+    }
+
+
+    /*Follow pop-up*/
+    .modal-cont-follwers-indicators{
+        width: 90vw;
+    }
+
+
+    /*Story-Modal*/
+    .story-arrow-pop-left{
+        left: 0;
+        width: 30%;
+        background: none;
+        bottom: 0;
+        top: inherit;
+        height: 100%;
+    }
+
+    .story-arrow-pop-right{
+        right: 0;
+        height: 100%;
+        width: 30%;
+        background: none;
+        bottom: 0;
+        top: inherit;
+        height: 100%;
+    }
+
+
+    /*Cart*/
+    .another-total-price{
+        padding-left: 18px;
+        padding-right: 18px;
+        line-height: 50px;
+    }
+
+    .section-next-to-products{
+        margin-bottom: 25px;
+    }
+
+    .review-the-products{
+    }
+
+
+
+    .chck-span-1{
+        display: inline;
+    }
+
+    .chck-span{
+        display: none;
+    }
+
+
+
+    .main-icon-arrow-right-dash{
+    }
+
+    .placeholder-for-cart{
+        padding: 24px;
+    }
+
+    .pricecart{
+        margin-top: 10px;
+    }
+
+    .sp-500px-cart-options{
+        display: inherit;
+        position: relative;
+        float: left;
+    }
+
+
+
+    .erros-on-checkout-text{
+
+        width: 70%;
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+
+    .avlbprodu-span{
+        display: none;
+    }
+
+
+
+
+
+
+    .itemsbox{
+        width: 100%;
+        margin-left: 0;
+        margin: 0;
+        border-bottom: 0;
+        border-right: 0;
+        border-left: 0;
+        border-radius: 0;
+    }
+
+    .main-products-cart-checkout-div{
+        width: 100%;
+        height: auto;
+        padding-top: 0%;
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+
+    .another-total-price{
+        display: none;
+    }
+
+    .sp-price-cart-500{
+        display: inherit;
+    }
+
+
+    /*Notification Page*/
+    .question-mark-for-notifications{
+        background-size: 38%;
+    }
+
+    .for-hover-class{
+        width: 35px;
+        height: 35px;
+    }
+
+    .mini-div-that-show-type-of-notification{
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+    .new-notification-indicator{
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+    .photo-that-was-liked-or-commented{
+        width: 39px;
+        height: 39px;
+        border-radius: 8px;
+    }
+
+    .for-hover-class-for-orders{
+        width: 39px;
+        height: 39px;
+        border-radius: 8px;
+    }
+
+
+
+    .content-in-notification-div{
+        margin-left: 55px;
+        width: calc( 100% - 45px );
+    }
+
+    .special-width-for-social-text{
+        width: calc( 100% - 69px );
+    }
+
+    .new-notification-indicator{
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+    /*Settings*/
+
+
+
+
+
+
+
+    /*Order*/
+
+    .comun-code-for-div-histroy-section-orders{
+        padding-left: 14px;
+        padding-right: 14px;
+        border-radius: 14px;
+    }
+
+    .successfully-delivered-icon-in-line{
+        margin-left: 0;
+    }
+
+    .refused-order-icon-in-line{
+        margin-left: 0;
+    }
+
+    .grey-text-trackksd{
+        display: none;
+    }
+
+
+    /*Product*/
+    .modal-content{
+        margin-top: 0;
+        margin-bottom: 0;
+        min-width: 100%;
+        max-width: 100%;
+        border-radius: 0;
+    }
+
+    .modalProductImage{
+        height: 100vw;
+        width: 100vw;
+    }
+
+    .img-in-line{
+        height: 100vw;
+        width: 100vw;
+    }
+
+    .flat-width {
+        min-width: 100%;
+        max-width: 100%;
+        border: 0;
+        margin: 0;
+    }
+
+    .sp-background-whitee-500px-product-pop{
+        background-color: white;
+    }
+
+
+    .modal-cont-follwers-indicators{
+        margin-top: 0;
+        margin-bottom: 0;
+        min-width: 100%;
+        max-width: 100%;
+        border-radius: 0;
+        box-shadow: none;
+    }
+
+    .intro-to-follows-information-54{
+        border-radius: 0;
+    }
+
+
+    /*Dashboard*/
+
+
+
+    .available-funds-blue-placeholder{
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+
+    .simple-comun-text{
+        margin-bottom: 4px;
+    }
+    .simple-comun-text{
+        font-size: 11px;
+    }
+
+    .available-funds-real{
+        font-size: 15px;
+    }
+
+    .status-of-the-transactions{
+        padding-left: 9px;
+        padding-right: 9px;
+    }
+
+    .link-to-transactioned-username-profile{
+        margin-left: 10px;
+    }
+
+    .special-margin-dash-dot-trans.dot-transactions{
+        display: none;
+    }
+
+    .dot-transactions{
+        display: none;
+    }
+
+    .transactioned-time{
+        margin-left: 2px;
+    }
+
+
+
+    .footerp{
+        font-size: 15px;
+    }
+
+    .join-please{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .please-just-click-utton{
+        margin: auto;
+    }
+
+
+}
+
+@media screen and (max-width:450px){
+
+
+    .miniselectors-comun{
+        margin-right: 8px;
+    }
+
+    .n450-no-need{
+        display: none;
+    }
+
+
+
+
+    .join-please{
+        margin-bottom: 30px;
+    }
+
+    .show-case{
+        
+    }
+
+    .ii-hart-welcome{
+        background-size: 35px;
+        top: 15px;
+        right: 15px;
+        display: none;
+    }
+
+    .main-points-pop-min-div{
+        width: 335px;
+    }
+
+    .add-story-now{
+        background-size: 20px;
+    }
+
+
+
+
+
+
+
+
+    .main-failed-payment-placeholder{
+        width: 350px;
+    }
+
+
+
+
+
+
+    .online-circle-other-profile{
+        bottom: 5%;
+        right: -2%;
+    }
+
+
+
+    .delivery-price-included-simple{
+        display: none;
+    }
+
+    .blue-dot-pop-up-payment{
+        display: none;
+    }
+
+    .real-price-full-actually{
+        text-align: center;
+        width: 100%;
+    }
+
+    .Stripe-pop-up-logopowered{
+        background-position-x: 48%;
+        background-position-y: 43%;
+    }
+
+    .fisrt-payment-info-fullpr{
+        width: 100%;
+    }
+
+    .full-or-partial-refund-text{
+        text-align: center;
+    }
+
+
+
+    .modal-content-foto-change{
+        width: 297px;
+    }
+
+
+    .upload-new-picture, .delete-photo-profile-user{
+        line-height: 53px;
+    }
+
+
+    /*Welcome*/
+    .start-sell-on--ovigram{
+        color: #404040;
+    }
+
+    .start-sell-on--ovigram-2{
+        color: #404040;
+        font-size: 13px;
+    }
+
+    .coming-soon-textt-index{
+        font-size: 10px;
+        margin-left: 9px;
+        padding-right: 12px;
+        padding-left: 12px;
+    }
+
+    .less-padding-banner{
+        padding-left: 2px;
+    }
+
+    .google-logo-div{
+        background-size: 36%;
+    }
+
+    .apple-logo-div{
+        background-size: 46%;
+    }
+
+    .placeholder-for-welcome-st{
+        margin-top: 20px;
+    }
+
+    .background-img-icon-instagram{
+        margin-left: 10px;
+    }
+
+    .dot-at-footer{
+        display: none;
+    }
+
+    .no-footer-margin-550{
+        margin-left: 0 !important;
+    }
+
+
+    /*Home*/
+
+    .search-result-products-text{
+        margin-left: 19px;
+    }
+
+    .search-result-products-number{
+        margin-right: 19px;
+    }
+
+
+    /*Product-Modal*/
+
+
+    /*User*/
+
+    .profilename{
+        font-weight: 600;
+    }
+
+    .add-photo-dot-at-profile-icon{
+        height: 26px;
+        width: 26px;
+        background-size: 41%;
+        bottom: -6%;
+        right: -5%;
+    }
+
+    .main-reting-stars-div-place-holder{
+        margin-top: 5px;
+    }
+
+
+    .ul-row-information{
+        width: 95%;
+    }
+
+    .sp-user-suggested{
+        height: calc(10vw + 2px);
+        width: calc(10vw + 2px);
+    }
+
+
+    .indicator-text-of-feed{
+        font-size: 13px;
+    }
+
+    .indicator-text-of-number-feed-prod{
+        font-size: 13px;
+    }
+
+    .comun-text-in-big-select{
+        font-size: 13px;
+    }
+
+    .exclamationsvg{
+        height: 39px;
+        width: 39px;
+    }
+
+    .hh-radius{
+            border-radius: 20px;
+    }
+
+    .main-no-stories-from-followers-hh{
+        left: 6%;
+    }
+
+    /*Settings*/
+
+    .just-intro-text-to-settings-input{
+        margin-right: 5%;
+    }
+
+    .just-intro-text-to-settings-input{
+        width: 33%;
+    }
+
+
+    .just-intro-text-to-settings-input{
+        font-size: 11px;
+    }
+
+
+    /*Add product*/
+
+    .special-for-name-selector{
+        width: 30%;
+    }
+
+    .second-option-main-div-withoptions{
+        width: 62%;
+    }
+
+    .min-max-for-selector{
+        display: none;
+    }
+
+    .special-width-at-450px-nr{
+        width: 27%;
+    }
+
+
+
+    /*Order*/
+    .content-about-product-pop-not{
+        width: calc( 100% - 152px );
+        margin-left: 15px;
+        height: 135px;
+    }
+
+    .all-content-notification-pop{
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+
+    .name-of-product-in-notification{
+        font-size: 15px;
+    }
+
+    .price-not-pop-cont{
+        margin-top: 8px;
+    }
+
+    .name-and-timebought-product-pop-not{
+        margin-top: 6px;
+    }
+
+    .main-image-background-in-not-pop{
+        width: 135px;
+        height: 135px;
+    }
+
+    .grey-text-trackksd{
+        display: none;
+    }
+
+    .main-content-sections-cpmun-not-popups{
+        padding: 4%;
+    }
+
+    .track-number-pop-up-div{
+        height: 31px;
+        width: 52%;
+    }
+
+    .add-track-butontext{
+        line-height: 34px;
+    }
+
+    .accept-sold-product{
+        padding-left: 13px;
+        padding-right: 13px;
+        margin-right: 8px;
+    }
+
+    .refuse-sold-product{
+        padding-left: 13px;
+        padding-right: 13px;
+    }
+
+
+    /*Order*/
+
+    .paypal-email-input-actv{
+        width: 70%;
+    }
+
+    /*Dashboard*/
+    .added-price-div{
+        margin-right: 7px;
+    }
+
+    .link-to-transactioned-username-profile{
+        float: left;
+    }
+
+    .transactioned-time{
+        display: none;
+    }
+
+    /*Cart*/
+    .erros-on-checkout-text{
+        width: 90%;
+        padding-left: 5%;
+        padding-right: 5%;
+        font-size: 12px;
+    }
+
+
+}
+
+
+@media screen and (max-width:425px){
+
+    .main-buttns-log-ut{
+        height: 36px;
+    }
+
+    .without-login-page-button-sign-up{
+        line-height: 36px;
+        margin-left: 0;
+    }
+
+    .without-login-page-button-login{
+        line-height: 36px;
+        color: #3897f0;
+        background-color: transparent;
+        box-shadow: none;
+        font-size: 15px;
+    }
+
+    .main-top-3{
+        margin-top: 8vw;
+    }
+
+    .add-story-now{
+        width: 56px;
+        height: 56px;
+    }
+
+    .for-you-texxt{
+        margin-top: 11px;
+        margin-bottom: 11px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    .filter-div-allicons{
+        margin-right: 13px;
+    }
+
+    .tab-home-selector{
+        margin-top: 13px;
+        margin-bottom: 13px;
+    }
+
+    .home-selector-paceholder{
+        margin-top: 20px;
+    }
+
+
+    .main-view-of-selected-colors{
+        width: calc( 100% - 75px);
+    }
+
+    .stories-main-div-imp{
+        width: 80px;
+        margin-right: 5px;
+    }
+
+    .name-of-post-stories{
+        width: 80px;
+    }
+
+    .special-margin-welcome-snap{
+        margin-right: 0;
+    }
+
+    .sp-ph-margin{
+        margin-bottom: calc( 30px - 2.8vw); 
+    }
+
+    .name-of-follower{
+        font-size: 14px;
+    }
+
+    .follow-name-btn-in-pop{
+        font-size: 13px;
+        border-radius: 11px;
+        top: 4px;
+        position: relative;
+        line-height: 34px;
+    }
+
+    .stories-stories{
+        width: 80px;
+        height: 80px;
+    }
+
+    .stories-stories img{
+        width: 56px;
+        height: 56px;
+    }
+
+
+
+
+
+    .quantity-main-divv4{
+        margin-top: 13px;
+    }
+
+
+    .border-contur-of-colors{
+        margin-right: 11px;
+        margin-top: 11px;
+    }
+
+    .main-placeholder-for-color-shape{
+            width: 37px;
+    height: 37px;
+    }
+
+
+    .available-pieces-text{
+        font-size: 12px;
+        line-height: 40px;
+        margin-top: 13px;
+    }
+
+    .delivery-time---texxxttt{
+        font-size: 14px;
+    }
+
+    .popupbtnclass{
+        font-size: 17px;
+    }
+
+    .options-to-choose-countryyy{
+        padding-left: 17px;
+        padding-right: 17px;
+    }
+
+    .main-text-for-delivery-options{
+        line-height: 45px;
+        margin-top: 13px;
+        font-size: 14px;
+    }
+
+
+    .hover-div{
+        margin-right: 10px;
+    }
+
+    .social-product-text-select-filter{
+        line-height: 59px;
+    }
+
+    .mini-border-lol{
+        display: none;
+    }
+    .delivery-time-popups{
+        font-size: 14px;
+    }
+
+    .special-add-descrp-text{
+        font-weight: 700 !important;
+    }
+
+
+    .user-icon-gg-ss{
+        top: 5px;
+        left: 4px;
+    }
+
+    .name-of-stories-in-home{
+        font-size: 13px;
+        line-height: 28px;
+    }
+
+
+    .by-pop-up-for-pop-up{
+        width: 323px;
+    }
+
+    .popupviews{
+        margin-top: 15px;
+    }
+
+    .main-background-stars-div{
+        margin-top: 15px;
+    }
+
+    .white-stars-at-product{
+        width: 31px;
+        background-size: 18px;
+    }
+
+
+
+
+
+
+
+
+    .option-number-quantity{
+        padding-left: 11px;
+        padding-right: 11px;
+    }
+
+
+
+
+    .main-grey-notf-mini-div{
+        width: 350px;
+    }
+
+    .headline-text-cm{
+        width: 87%;
+    }
+
+
+
+    .message-cm-text-cm{
+        width: 80%;
+    }
+
+    .learn-moreee{
+        bottom: 12px;
+    }
+
+    .main-placeholder-for-point-filter-user-feed{
+        display: none;
+    }
+
+    .main-stories-allview-place{
+        display: none;
+    }
+
+
+    .profilepicture{
+        width: 80px;
+        height: 80px;
+    } 
+
+
+
+    .comun-code-for-div-histroy-section-orders{
+
+    }
+
+
+    .paypal-email-input-actv{
+        width: calc( 100% - 61px );
+    }
+
+    .special-change-inorder-for-review{
+        width: 300px;
+    }
+
+
+    .justdisplay-none-txt{
+        display: initial;
+    }
+
+
+
+
+
+    .special-side-menu-55{
+        top: 16px;
+        left: 18px;
+    }
+
+    .sp-sett-108555{
+        top: 16px;
+        right: 18px;
+    }
+
+    .main-side-menu-div{
+        top: 58px;
+    }
+
+
+    /*Order*/
+
+    .main-buttons-accept-refuse-div-pop-up{
+        display: none;
+    }
+
+    .sp-order-buton-actions-350px{
+        display: inherit;
+    }
+
+    .main-buttons-accept-refuse-div-pop-up{
+        margin-top: 19px;
+        float: left;
+        position: relative;
+    }
+
+    /*Welcome*/
+
+    .story-inf-back{
+        padding: 17px;
+    }
+
+
+    
+
+
+
+    .headerdiv-asdfasdf{
+        height: 55px;
+    }
+
+    .comun-headers-divs{
+        height: 55px;
+    }
+
+    .another-height{
+        height: 55px;
+    }
+
+    .sbx-custom{
+        width: calc( 100% - 65px );
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        margin-left: 0;
+
+    }
+
+    .cancel-search{
+        display: inline;
+    }
+
+    .results{
+        top: 56px;
+        height: calc(100% - 110PX);
+    }
+
+    .sbx-custom__input{
+        height: 55px;
+    }
+
+    .sbx-custom__input::placeholder {
+
+    }
+
+    header{
+        height: 55px;
+    }
+
+    .placeholder-for-header-1200px{
+        height: 55px;
+    }
+
+    .bottom-header{
+        height: 55px;
+    }
+
+    .bottom-div-as-placeeholder{
+        height: 55px;
+    }
+
+    .logo--nav-bar{
+        height: 55px;
+        line-height: 55px;
+    }
+
+    .body-div-1{
+        height: calc(100% - 120px);
+    }
+
+    .welcome-sp-body{
+        height: calc(100% - 70px);
+    }
+
+
+    .sp-bottom-header{
+        width: 66.3%;
+    }
+
+    .coming-soon-textt-index{
+        margin-left: 7px;
+    }
+
+    .placeholder-for-welcome-st{
+        margin-top: 15px;
+    }
+
+    .background-img-icon-instagram{
+        margin-left: 8px;
+    }
+
+
+
+    .cooming-soon-app-main-div{
+        padding-top: 18px;
+        padding-bottom: 18px;
+    }
+
+    .start-sell-on--ovigram-2{
+        color: #000000b0;
+        font-weight: 600;
+    }
+
+
+
+ 
+
+    .main-welcome-btn-now-1{
+        margin-top: 16px;
+    }
+
+    .rest-of-2-sections-welcome{
+        margin-top: 12px;
+    }
+
+    .main-icons-div-welcome{
+        margin-top: 10px;
+    }
+
+    .main-icons-div-welcome-percentage{
+        margin-top: 10px;
+    }
+
+    .wel-icon-1{
+        height: 49px;
+        width: 49px;
+    }
+
+    .wel-icon-1-percentage{
+        height: 55px;
+        width: 55px;
+    }
+
+ 
+
+
+    /*Login*/
+    .main-loging-signup-page{
+        margin-top: 11%;
+        margin-bottom: 9%;
+            width: 315px;
+    }
+
+
+    /*Home*/
+
+    .sp-414px-home-tab{
+        display: inherit;
+    }
+
+    .follow-filter-textt{
+        font-size: 10px;
+        line-height: 24px;
+        border-radius: 8px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    .new-boss-filter-div{
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .new-boss-filter-div{
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+
+
+    .no-products-pp{
+        line-height: 75px;
+        font-size: 12px;
+    }
+
+    .icon-for-no-products-just-img{
+        height: 75px;
+        width: 75px;
+    }
+
+    /*Product-Modal*/
+
+    .main-section-for-comment-content--text-p{
+        bottom: 2px;
+    }
+
+ 
+
+    .smile-emoji{
+        right: 15%;
+    }
+
+    .special-margin-top-for-low{
+        margin-top: 20px;
+    }
+
+
+    .itemdescriptionpop{
+        margin-bottom: 30px;
+    }
+
+
+
+
+    /*User*/
+
+
+
+
+    .comun-img-for-no-stories{
+        box-shadow: 0px 0px 3px -2px rgba(89, 89, 89, 1);
+        border: 4px solid white;
+    }
+
+ 
+
+    .main-reting-stars-div-place-holder{
+        margin-top: 5px;
+    }
+
+
+    .sp-user-suggested{
+        height: calc(11vw + 2px);
+        width: calc(11vw + 2px);
+    }
+
+    .indicator-text-of-feed{
+        font-size: 13px;
+    }
+
+    .indicator-text-of-number-feed-prod{
+        font-size: 12px;
+    }
+
+
+    .profilecountry{
+        width: 90%;
+            line-height: 26px;
+    }
+
+    .indicator-text-of-feed{
+        margin-right: 2%;
+    }
+
+
+
+
+
+    /*Add-product*/
+
+    .min-max-for-options{
+        margin-left: 5%;
+    }
+
+    .second-option-main-div-withoptions{
+        width: 58%;
+    }
+
+    .special-for-name-selector{
+        width: 34%;
+    }
+
+    .main-content-addproduct-page{
+        width: 100%;
+        margin: 0;
+        border-radius: 0;
+        border: 0;
+    }
+
+
+
+    .two1{
+        width: 13vw;
+        height: 13vw;
+        margin-bottom: 2.9vw;
+    }
+
+    .photosvg{
+        width: 13vw;
+        height: 13vw;
+        background-size: 38% !important;
+    }
+
+    .imgPreview{
+        width: 13vw;
+        height: 13vw;
+        margin-left: 2.8vw;
+        margin-bottom: 2.8vw;
+    }
+
+    .another-width{
+        width: 54%;
+    }
+
+    .anth-left{
+        left: 27%;
+    }
+
+    .div-for-unsuccessfully-posted-product{
+        margin-left: 15px;
+    }
+
+    .main-eror-main-section{
+        margin-top: 5px;
+    }
+
+
+    /*Follow pop-up*/
+    .modal-cont-follwers-indicators{
+        width: 100%;
+        margin: 0;
+        border-radius: 0;
+        border: 0;
+        background-color: white;
+        height: 100%;
+    }
+
+    .main-div-with-divs-reviewss{
+        min-height: auto;
+    }
+
+    .intro-to-follows-information-54{
+        border-radius: 0;
+    }
+
+    .select-23-reviewss-main-div{
+        margin-bottom: 23px;
+    }
+
+    .text-first-as-seller-and-buyer{
+        line-height: 47px;
+    }
+
+    .intro-text-follows-information{
+        line-height: 58px;
+    }
+
+
+    /*Story-Modal*/
+    .main-content-of-stories-div{
+        margin-bottom: 25px;
+        width: 100%;
+        margin-top: 0;
+    }
+
+    .top-greyy-backgrounddd-stori{
+        border-radius: 0;
+    }
+
+    .story-looadder-main{
+        height: 8px;
+    }
+
+    .story-mainloading-100{
+        height: 8px;
+    }
+
+    .main-content-on-intro-divv-of-story{
+        width: fit-content;
+    }
+
+
+
+
+
+    .real-text-of-the-story-pop-upp{
+        font-size: 14px;
+    }
+
+    .main-story-high{
+        font-size: 15px;
+    }
+
+    .posted-time-story-intro-pop{
+        font-size: 14px;
+    }   
+
+    .main-story-image-divv-with-selector{
+        box-shadow: none;
+    }
+
+    .main-colored-section-with-name-and-views-story{
+        width: 90%;
+        margin-left: 5%;
+        margin-top: 20px;
+    }
+
+    /*Cart*/
+
+
+    .another-total-price{
+        font-size: 12px;
+        padding-left: 15px;
+        padding-right: 15px;
+        line-height: 48px;
+        border-radius: 14px;
+    }
+
+
+    .proceedd-checkkout-div-btnn{
+    }
+
+
+    .erros-on-checkout-text{
+        font-size: 12px;
+    }
+
+    .placeholder-for-cart{
+        padding: 22px;
+    }
+
+
+
+
+
+    /*Notification Page*/
+    .heightandwidth-for-orders{
+        padding: 0;
+        border-radius: 0;
+        margin-bottom: 0;
+        border: 0;
+    }
+
+    .content-in-notification-div-for-orders{
+        margin-left: 14px;
+        padding-top: 18px;
+        padding-bottom: 18px;
+        width: calc( 100% - 56px);
+        border-bottom: 1px solid #e9e9e97a;
+    }
+
+
+    .rowfornotification2{
+        margin-top: 0;
+    }
+
+
+    /*Settings*/
+
+
+
+    .just-intro-text-to-settings-input{
+        width: 100%;
+        margin-right: 0%;
+        font-size: 12px;
+        line-height: 36px;
+        text-align: left;
+    }
+
+
+    .description-number-maxx{
+        margin:0;
+        margin-bottom: 7px;
+    }
+
+    .main-settings-change-section{
+        width: 100%;
+    }
+
+
+
+    .special-line-height-for-settings{
+        line-height: 23px;
+    }
+
+
+    /*Chat*/
+    .main-chat-users-div{
+        width: 100%;
+        border-radius: 0;
+        display: inherit;
+        flex-flow: inherit;
+        overflow: scroll;
+    }
+
+    .main-content-chat-div{
+        width: 100%;
+        height: 100%;
+    }
+
+    .search-conversation-div{
+        float: left;
+    }
+
+    .main-div-messages-intro{
+        width: 100%;
+    }
+
+    .main-div-full-divs-with-messages{
+        flex: inherit;
+        height: auto;
+        overflow: overlay;
+    }
+
+    .actually-div-chat{
+        box-shadow: none;
+        border-radius: 0;
+    }
+
+
+    /*Order*/
+
+    .price-not-pop-cont{
+        margin-top: 8px;
+    }
+
+    .original-price-for-prod-cont-pop{
+        font-size: 13px;
+    }
+
+    .accept-sold-product{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .refuse-sold-product{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .content-about-product-pop-not{
+        width: calc( 100% - 146px );
+        margin-left: 16px;
+        height: auto;
+    }
+
+    .main-image-background-in-not-pop{
+        width: 96px;
+        height: 96px;
+    }
+
+    .confetti-background{
+        background-size: 0;
+        padding-right: 6%; 
+    }
+
+    .main-content-sections-cpmun-not-popups{
+        padding: 4%;
+    }
+
+    .shippment-additional-information-for-seller{
+        font-size: 12px;
+        padding: 4%;
+    }
+
+    .dispute-main-button{
+        line-height: 31px;
+        padding-left: 13px;
+        padding-right: 13px;
+    }
+
+    .go-to-dispute-group-button{
+        line-height: 31px;
+        padding-left: 13px;
+        padding-right: 13px;
+    }
+
+
+    .add-track-butontext{
+        padding-left: 14px;
+        padding-right: 14px;
+    }
+
+    .track-number-pop-up-div{
+        width: 70%;
+    }
+
+
+    /*Footer page pop-up*/
+
+    /*Follow pop-up*/
+    .simple-comun-text{
+        font-size: 11px;
+    }
+
+    .available-funds-real{
+        font-size: 15px;
+    }
+
+    .available-funds-blue-placeholder{
+        padding-top: 15px;
+    }
+
+
+
+    .dashboard-product{
+        border-radius: 9px;
+    }
+
+    .out-of-stck-sold-text-dash{
+        right: 0;
+        left: 0;
+        width: 98%;
+    }
+
+    .sold-out-of-stock-grey-backgr{
+        border-radius: 9px;
+    }
+
+    .ad-pd-top{
+        margin-left: 7px;
+    }
+
+    .comun-menufilter-div{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    /*Dashboard*/
+
+    .available-funds-real{
+        font-size: 14px;
+    }
+
+    .main-transaction-div{
+        padding: 12px;
+        margin-bottom: 17px;
+    }
+
+
+
+
+
+    .selected-mini-text-story{
+            border: 0
+    }
+
+    .text-selector-mini-stories{
+        line-height: 42px;
+        float: initial;
+        border: 0;
+        font-size: 14px;
+    }
+
+
+    .follow-mainnn-button{
+        font-weight: 700;
+    }
+
+    .profilecountry{
+    }
+
+    .right79384{
+        margin-right: 0;
+    }
+
+    .comun-text-in-big-select{
+        font-size: 14px;
+    }
+
+    .indicator-text-of-feed{
+        font-size: 14px;
+    }
+
+    .special-no-descrp-text{
+        font-weight: 700 !important;
+        font-size: 14px;
+    }
+
+
+
+    .follow-filter-textt{
+        font-weight: 700;
+    }
+
+    .profilename{
+        font-size: 19px;
+        margin-right: 0;
+        text-align: center;
+        bottom: 4px;
+        font-weight: 700;
+    }
+
+    .special-add-descrp-text-for-DD{
+        font-size: 13px;
+    }
+
+    .add-a-product-my-sprofile{
+        width: 31%;
+        margin-right: 3%;
+        background-size: 19px;
+        height: 37px;
+    }
+
+    .sppp-wwidth{
+        width: 23%;
+    }
+
+    .user-icon-placeholder{
+        height: 40px;
+        width: 40px;
+    }
+
+    .user-svg-icon-bag{
+        width: 23px;
+    }
+
+    .user-svg-icon-save{
+        width: 24.5px;
+    }
+
+    .user-svg-icon-users{
+        width: 24px;
+    }
+
+    .settings-user-icon{
+        width: 19px;
+        stroke-width: 2.2px;
+    }
+
+    .stats-user-icon{
+        width: 21px;
+        stroke-width: 2.4px;
+    }
+
+    .share-user-icon{
+        width: 19px;
+        bottom: 2px;
+        stroke-width: 2.3px;
+    }
+
+    .send-user-icon{
+        width: 19px;
+        stroke-width: 2.1px;
+    }
+
+    .withdraww-but-prop{
+        width: 31%;
+        margin: 0;
+        margin-right: 3%;
+        background-size: 24px;
+        height: 36px;
+    }
+
+    .follow-mainnn-button{
+        padding-left: 0;
+        padding-right: 0;
+        width: 45%;
+        text-align: center;
+        line-height: 37px;
+        box-sizing: border-box;
+        font-size: 14px
+    }
+
+
+
+    .unfollow-special-grey{
+        
+        line-height: 35px;
+
+    }
+
+    .main-div-contactseller-profile{
+        height: 36px;
+        background-position-x: center;
+        background-size: 33px;
+        margin-left: 3%;
+        width: 24.5%;
+    }
+
+    .other-rvw{
+        width: 31%;
+        margin: 0;
+        background-position-y: 3px;
+        background-size: 27px;
+        height: 36px;
+    }
+
+    .sp-usernumbers-550{
+        margin-bottom: 6px;
+    }
+
+    .spchgg{
+        width: 24.5%;
+        margin-left: 3%;
+    }
+
+    .mini-selector-div-with-hide{
+        top: -60px;
+        padding-top: 16px;
+    }
+
+    .no-products-follow-someone{
+        background-color: white;
+    }
+
+
+
+    .greyyyyyyy{
+        position: relative;
+        float: left;
+        width: 100%;
+    }
+
+    .row0{
+        float: left;
+        background-color: white;
+    }
+
+    .story{
+        margin-left: -9px;
+        margin-top: 4px;
+    }
+
+    .sp-stories-wdth-for-no-stris{
+        width: 68%;
+    }
+
+    .smg-ln-hgh{
+        line-height: 25px;
+    }
+
+        .logo--nav-bar{
+        font-size: 19px;
+    }
+
+    .blue-story-border-welcome img{
+        width: 59px;
+        height: 59px;
+    }
+
+
+}
+
+
+
+@media screen and (max-width:400px){
+
+    /*Product-Modal*/
+
+
+    /*Product-Modal*/
+    .change-414px-position-close-order{
+        top: 9px;
+        right: 9px;
+    }
+
+    .logo--nav-bar{
+        font-size: 19px;
+    }
+
+
+    /*User*/
+
+
+    /*Dashboard*/
+    .link-to-transactioned-username-profile{
+        width: 18%;
+    }
+
+    .boo2{
+        width: 37px;
+    }
+
+    .infocartdiv{
+        width: calc( 100% - 54px);
+    }
+
+
+    .main-div-option-for-cart{
+        display: none;
+    }
+
+    .nospace-display{
+        display: inline;
+    }
+
+    .no-space-fk{
+        position: relative;
+        float: left;
+        width: 100%;
+        display: inline;
+    }
+
+    .boo2{
+        height: 42px;
+    }
+
+}
+
+
+
+@media screen and (max-width:375px){
+
+
+    .profilerow1{
+        width: 105px !important;
+    }
+
+    .main-points-pop-min-div{
+            width: 300px;
+        
+    }
+
+    .sp-width-pop-and-height{
+        height: 400px;
+    }
+
+    .list{
+        height: 344px;
+    }
+
+    .main-name-and-buttons-profile-div{
+        margin-top: 17px;
+    }
+
+
+    .profilerow2{
+        width: calc( 100% - 105px) !important;
+    }
+
+
+    .main-grey-notf-mini-div{
+        width: 302px;
+    }
+
+    .profilepicture{
+        width: 75px;
+        height: 75px;
+    }
+    .main-failed-payment-placeholder{
+        width: 303px;
+    }
+
+
+
+    .online-circle-other-profile{
+        height: 15px;
+        width: 15px;
+        border: 2px solid white;
+    }
+
+    .main-placeholder-for-point-filter-user-feed{
+        height: 14px;
+    }
+
+    .main-placeholder-for-point-div-user-high-stori{
+            height: 23px;
+    }
+
+
+
+
+
+    /*Welcome*/
+
+
+    .img-div-start-shop-sell{
+        background-size: 116%;
+        background-position-x: 61%;
+        margin-top: 24px;
+    }
+
+  
+
+    .apple-logo-div{
+        background-size: 44%;
+        width: 30.14px;
+    }
+
+    .google-logo-div{
+        width: 30.14px;
+    }
+
+    .coming-soon-textt-index{
+        margin-left: 7px;
+    }
+
+    .just-welcome-absolute-placeholder-for-welcome-text{
+        width: 76% !important;
+    }
+
+    /*Home*/
+
+
+
+
+
+
+
+
+    
+
+
+    /*Product-Modal*/
+
+    .smile-emoji{
+        right: 16%;
+    }
+
+    .number-indicator-of-views{
+        line-height: 28px;
+        font-size: 10px;
+    }
+
+
+    .mobile-photo-number{
+        line-height: 27px;
+        font-size: 10px;
+    }
+
+
+
+
+
+
+    .number-of-views-main-div{
+        margin-left: 3%;
+        margin-top: 3%;
+    }
+
+
+
+    .mobile-photo-number{
+        margin-right: 3%;
+        margin-top: 3%;
+    }
+
+    .intr-to-product-gradient-div{
+    }
+
+    .porduct-options-pop-up-error{
+        font-size: 13px;
+        line-height: 60px;
+    }
+
+
+
+
+
+
+
+
+    .heart-like-icon1{
+        width: 25px;
+        top: 4px;
+    }
+
+    .comment-icon1-forever{
+        width: 25px;
+        top: 4px;
+    }
+
+    .like-comment-gradient-div{
+        padding-left: 3%;
+        padding-right: 3%;
+        padding-top: 3%;
+        padding-bottom: 5%;
+        width: 94%;
+    }
+
+    .comments-and-000-section-main-div{
+        box-sizing: border-box;
+    }
+
+
+    .options-gradient-div{
+        padding-left: 3%;
+        padding-right: 3%;
+        padding-top: 3%;
+        padding-bottom: 5%;
+        width: 94%;
+    }
+
+    .intro-big-text{
+        top: 3px;
+    }
+
+
+
+    .option-section-main-div{
+        padding-left: 3%;
+        padding-right: 3%;
+        box-sizing: border-box;
+    }
+
+
+
+
+
+    /*User*/
+
+    .main-no-stories-from-followers-hh{
+        left: 1%;
+    }
+
+    .profilecountry{
+        width: 100%;
+    }
+
+    .dot-at-user-name-profile{
+        bottom: 1px;
+    }
+
+    .main-reting-stars-div-place-holder{
+        margin-top: 5px;
+    }
+
+    .prfile-rating-star{
+        height: 28px;
+        width: 28px;
+    }
+
+    .reviews-number-text-intro{
+        line-height: 28px;
+        top: 1px;
+    }
+
+ 
+
+    .ul-row-information{
+        width: 94%;
+    }
+
+
+
+    .sp-user-suggested{
+        height: calc(12vw + 2px);
+        width: calc(12vw + 2px);
+    }
+
+    .add-photo-dot-at-profile-icon{
+        height: 23px;
+        width: 23px;
+        background-size: 42%;
+        bottom: -6%;
+        right: -7%;
+    }
+
+    .profilecountry-real-with-icon{
+        line-height: 23px;
+        padding-left: 25px;
+        background-size: 18px;
+    }
+
+    .mini-selector-div-with-hide{
+        line-height: 23px;
+    }
+
+    .indicator-text-of-feed{
+        display: none;
+    }
+
+    .sp-indicator-375{
+        display: inherit;
+    }
+
+    .main-stories-allview-place{
+        margin-right: 14px;
+    }
+
+    .watch-all-stories-user-text{
+        line-height: 23px;
+    }
+
+    .play-button{
+        height: 23px;
+        width: 26px;
+    }
+
+
+    /*Add-product*/
+
+    .tap-to-add-product-options{
+        padding-left: 20px;
+    }
+
+
+
+
+    .photosvg{
+        background-size: 41% !important;
+    }
+
+
+
+    .hastags-divv{
+        margin-top: 8px;
+    }
+
+    .another-width {
+        width: 54%;
+    }
+
+
+
+    .div-for-unsuccessfully-posted-product{
+        margin-left: 13px;
+    }
+
+    .main-eror-main-section{
+        padding: 18px;
+    }
+
+    .tap-to-add-product-options{
+            background-position-x: 92%;
+    }
+
+
+
+
+    /*Follow pop-up*/
+    .intro-text-follows-information {
+        line-height: 60px;
+    }
+
+    .text-first-as-seller-and-buyer{
+        line-height: 47px;
+    }
+
+    .first-as-seller-div-and-buyer {
+        width: 47.7%;
+    }
+
+    /*Story-Modal*/
+
+
+    /*Cart*/
+
+    .cart-item-span-display-none-375px{
+        display: none;
+    }
+
+    .review-the-products{
+        line-height: 45px;
+    }
+
+    .main-icon-arrow-right-dash{
+        height: 45px;
+    }
+
+    .another-total-price{
+        line-height: 45px;
+    }
+
+
+
+    
+
+    /*Notification Page*/
+    .mini-div-that-show-type-of-notification{
+        padding-left: 11px;
+        padding-right: 11px;
+    }
+
+    .new-notification-indicator{
+        padding-left: 11px;
+        padding-right: 11px;
+        margin-right: 1px;
+    }
+
+
+
+
+
+    .content-in-notification-div{
+    }
+
+
+
+
+
+
+    .content-in-notification-div-for-orders{
+        margin-left: 12px;
+        width: calc( 100% - 50px);
+    }
+
+
+    /*Settings*/
+
+
+
+    /*Chat*/
+
+    .main-div-messages-intro{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .order-intro-text{
+        margin-bottom: 7px;
+    }
+
+    .actually-order-in-chat{
+        padding: 11px;
+        border-radius: 16px;
+    }
+
+    .other-messages{
+        margin-bottom: 25px;
+        width: 79%;
+    }
+
+    .my-messages{
+        margin-bottom: 25px;
+        width: 79%;
+    }
+
+    .product-name-in-chat-order{
+        font-size: 11px;
+    }
+
+    .main-content-chat-order-place-holder{
+        width: calc( 100% - 58px );
+        margin-left: 10px;
+    }
+
+    .status-showmore-place-holder{
+        margin-bottom: 7px;
+    }
+
+    .product-picture-chat-link{
+        width: 48px;
+        height: 48px;
+        border-radius: 13px;
+    }
+
+    .actually-mesages-div{
+        padding-left: 13px;
+        padding-right: 13px;
+    }
+
+
+    /*ORDER*/
+
+    .name-and-timebought-product-pop-not{
+        margin-top: 6px;
+    }
+
+    .red-information{
+        font-size: 12px;
+    }
+
+    .note-for-refuse{
+        font-size: 12px;
+    }
+
+    .content-about-product-pop-not{
+        width: calc( 100% - 128px );
+    }
+
+    .main-image-background-in-not-pop{
+        width: 87px;
+        height: 87px;
+    }
+
+
+    .availabe-on-higher-resolution-devices-dash{
+        font-size: 13px;
+    }
+
+    .ad-grey-infomation-txt{
+        display: none;
+    }
+
+    .main-content-sections-cpmun-not-popups{
+        padding: 5%;
+    }
+}
+
+@media screen and (max-width:370px){
+
+    /*Order*/
+    .track-number-pop-up-div{
+        width: 61%;
+    }
+
+
+    .ovi-qoute{
+        left: 0px;
+    }
+
+
+    /*Welcome*/
+
+    .apple-logo-div{
+        display: none;
+    }
+
+    .google-logo-div{
+        display: none;
+    }
+
+    .coming-soon-textt-index{
+        padding-right: 11px;
+        padding-left: 11px;
+        margin-left: 10px;
+        line-height: 33.14px;
+    }
+
+    .cooming-soon-app-main-div{
+        padding-top: 17px;
+        padding-bottom: 17px;
+    }
+
+    .ssppss{
+        display: none;
+    }
+
+
+    /*Dashboard*/
+
+
+
+    .available-funds-blue-placeholder{
+        padding-top: 13px;
+        padding-bottom: 12px;
+    }
+
+
+
+    .link-to-transactioned-username-profile{
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+        float: left;
+        width: 29%;
+    }
+
+
+
+}
+
+@media screen and (max-width:360px){
+
+    .just-another-padding-man{
+        padding-right: 15px !important;
+    }
+
+    .main-icon-arrow-right-dash{
+        width: 45px;
+        right: 0px;
+    }
+
+    .proceedd-checkkout-div-btnn{
+        padding-left: 15px;
+        margin-left: 10px;
+    }
+}
+
+
+@media screen and (max-width:350px){
+
+    .profilenumbers{
+        width: 31%;
+    }
+
+    .profilenumbers{
+        font-size: 10px;
+        padding: 0;
+        line-height: 20px;
+    }
+
+    .profilecolornumber{
+        font-size: 18px;
+    }
+
+    .add-a-product-my-sprofile{
+        height: 34px;
+    }
+
+    .sp-usernumbers-550{
+        margin-bottom: 2px;
+    }
+
+    .main-name-and-buttons-profile-div{
+            margin-top: 23px;
+    }
+
+    .withdraww-but-prop{
+        height: 34px;
+    }
+
+    .other-rvw{
+        height: 34px;
+    }
+
+    .follow-mainnn-button{
+        line-height: 34px;
+    }
+
+    .unfollow-special-grey{
+        line-height: 32px;
+    }
+
+    .other-rvw{
+        background-size: 26px;
+    }
+
+    .main-div-contactseller-profile{
+        height: 34px;
+    }
+
+    .tab-text-home{
+        font-size: 14px;
+    }
+
+    .search-result-products-text{
+        font-size: 14px;
+    }
+
+    .search-result-products-number{
+        font-size: 14px;
+    }
+
+
+    .just-another-padding-man{
+        padding-right: 13px !important;
+    }
+
+    .proceedd-checkkout-div-btnn{
+        padding-left: 13px;
+        margin-left: 9px;
+    }
+
+
+    .by-pop-up-for-pop-up{
+            width: 284px;
+    }
+
+    .div-for-unsuccessfully-posted-product{
+        background-size: 44%;
+        width: 44px;
+    }
+
+    .just-welcome-absolute-placeholder-for-welcome-text{
+        width: 63%;
+    }
+
+
+    .special-change-inorder-for-review{
+        width: 277px;
+    }
+
+    .modal-content-foto-change{
+        width: 265px;
+    }
+
+    /*Welcome*/
+
+
+    .coming-soon-textt-index{
+        padding-right: 10px;
+        padding-left: 10px;
+        margin-left: 8px;
+        line-height: 31.14px;
+        border-radius: 9px;
+    }
+
+    .intro-to-welcome-sect-p{
+        font-size: 12px;
+        line-height: 26px;
+    }
+
+    .watchicon-st{
+        height: 26px;
+        width: 26px;
+    }
+
+    .watch-text-p-st{
+        line-height: 26px;
+        font-size: 12px;
+    }
+
+    .placeholder-for-welcome-st{
+        margin-top: 18px;
+        margin-bottom: 5px;
+    }
+
+
+    /*Login*/
+    .main-loging-signup-page{
+        width: 276px;
+    }
+
+
+    /*Home*/
+
+    /*Product-Modal*/
+
+
+
+    .text-in-witchhhh{
+        font-size: 12px;
+    }  
+
+
+
+
+    /*User*/
+
+    .main-no-stories-from-followers-hh{
+        left: 4%;
+    }
+
+
+    .add-photo-dot-at-profile-icon{
+        bottom: -8%;
+        right: -12%;
+    }
+
+    .profilename{
+        font-size: 18px;
+        line-height: 29px;
+    }
+
+    .dot-at-user-name-profile{
+        bottom: 0;
+    }
+
+
+    .prfile-rating-star{
+        height: 27px;
+        width: 27px;
+    }
+
+    .reviews-number-text-intro{
+        line-height: 29px;
+        top: 1px;
+        font-size: 12px;
+    }
+
+    .main-reting-stars-div-place-holder{
+        margin-top: 4px;
+    }
+
+    .ul-row-information{
+        width: 95%;
+    }
+
+
+
+    .sp-user-suggested{
+        height: calc(13vw + 2px);
+        width: calc(13vw + 2px);
+    }
+
+    .name-of-post-stories{
+        margin-top: 12px;
+    }
+
+    .main-stories-allview-place{
+        display: none;
+    }
+
+
+    /*Add-product*/
+
+
+    .div-for-unsuccessfully-posted-product{
+        margin-left: 12px;
+        padding-left: 0px;
+        padding-right: 0;
+    }
+
+    .exclamationsvg{
+        height: 39px;
+        width: 36px;
+        left: 2px;
+    }
+
+    .exclamation-addproduct-text-error{
+        font-size: 11px;
+        line-height: 39px;
+    }
+
+    .intro-text-aleing-add-post-white{
+        font-size: 12px;
+    }
+
+
+    .order-conversation-opened{
+        display: none;
+    }
+
+
+    /*Order*/
+
+    .main-buttons-accept-refuse-div-pop-up{
+        margin-top: 12px;
+        float: left;
+        position: relative;
+    }
+
+    .main-image-background-in-not-pop{
+        width: 65px;
+        height: 65px;
+        border-radius: 18px;
+    }
+
+    .content-about-product-pop-not{
+        width: calc( 100% - 78px );
+        margin-left: 11px;
+        height: auto;
+    }
+
+    .name-and-timebought-product-pop-not{
+        margin-top: 6px;
+        line-height: 19px;
+    }
+
+    .track-number-seller-text-editable{
+        font-size: 11px;
+    }
+
+    .change-track-number-for-seller{
+        font-size: 11px;
+    }
+
+    .accept-sold-product{
+        margin-right: 8px;
+    }
+
+    .refuse-sold-product{
+        margin-right: 8px;
+    }
+
+
+    /*Dash*/
+
+
+    /*Follow pop-up*/
+
+    .follow-name-btn-in-pop{
+        padding-left: 13px;
+        padding-right: 13px;
+    }
+
+    .prof-of-folo-fols{
+        width: 35px;
+        height: 35px;
+    }
+
+    .cont-of-folw-name-surname{
+        left: 49px;
+    }
+
+    /*Dashboard*/
+
+    .available-funds-real{
+        font-size: 14px;
+    }
+
+    .available-funds-blue-placeholder{
+        width: 32.8%;
+    }
+
+
+
+
+    .link-to-transactioned-username-profile{
+        width: 24%;
+    }
+
+
+    /*Cart*/
+
+    .erros-on-checkout-text{
+        font-size: 11px;s
+    }
+
+    .cart-op-quantity{
+        margin-right: 6px;
+    }
+
+    .min-max-for-options{
+        display: none;
+    }
+}
+
+@media screen and (max-width:320px){
+
+    .online-circle-other-profile{
+        height: 13px;
+        width: 13px;
+        border: 2px solid white;
+    }
+
+
+    .just-welcome-absolute-placeholder-for-welcome-text{
+        width: 65%;
+    }
+
+
+
+
+    /*Welcome*/
+    .img-div-start-shop-sell{
+        margin-top: 6px;
+    }
+
+    .coming-soon-textt-index{
+        margin-left: 6px;
+    }
+
+    .cooming-soon-app-main-div{
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .rest-of-2-sections-welcome {
+        margin-top: 9px;
+    }
+
+
+
+
+    /*Home*/
+
+
+
+    .follow-filter-textt{
+        line-height: 22px;
+        font-size: 9px;
+    }
+
+
+
+    .category-name-information{
+        font-size: 10px;
+    }
+
+    .number-of-filter-products{
+        font-size: 10px;
+        margin-top: 3px;
+    }
+
+    .no-products-pp{
+        line-height: 50px;
+        font-size: 9px;
+    }
+
+    .icon-for-no-products-just-img{
+        height: 50px;
+        width: 50px;
+    }   
+
+
+
+
+
+    .dot-at-user-name-profile{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .main-section-for-comment-content--text-p{
+        width: 72%;
+    }
+
+    .comment-like-mini{
+        width: 19px;
+    }
+
+    .smile-emoji{
+        height: 43px;
+    }
+
+
+    .animoji-addprod-span{
+        font-size: 17px;
+    }
+
+
+
+
+
+    /*User*/
+
+    .add-photo-dot-at-profile-icon{
+        bottom: -6%;
+        right: -8%;
+        height: 21px;
+        width: 21px;
+        background-size: 43%;
+    }
+
+    .sp-user-735{
+        margin: 0;
+    }
+
+
+    .sp-user-suggested{
+        height: calc(14vw + 2px);
+        width: calc(14vw + 2px);
+    }
+
+
+    /*Add-product*/
+
+    .main-notice-text-about-options{
+        font-size: 11px;
+    }
+
+    .photosvg {
+        background-size: 36% !important;
+    }
+
+    .text-comun-inselect-divss-stor-prod{
+        line-height: 43px;
+    }
+
+
+
+    .another-width{
+        width: 54%;
+    }
+
+    .special-for-name-selector{
+        width: 40%;
+    }
+
+    .second-option-main-div-withoptions{
+        width: 52%;
+    }
+
+
+
+    .two1{
+        border-radius: 12px;
+    }
+
+    .imgPreview{
+        border-radius: 12px;
+    }
+    
+    .main-eror-main-section{
+        background-size: 18px;
+        padding: 17px;
+    }
+
+    .main-grey-add-post-intro-divss{
+        margin-top: 25px;
+        margin-bottom: 9px;
+
+    }
+
+    .margin-top-more-percent-we-need-add-product{
+        margin-top: 0;
+    }
+
+
+    /*Follow pop-up*/
+    .intro-text-follows-information{
+        line-height: 57px;
+    }
+
+    .text-first-as-seller-and-buyer{
+        font-size: 12px;
+        line-height: 43px;
+    }
+
+
+    /*Story-Modal*/
+
+
+    /*Cart*/
+
+
+    /*Notification Page*/
+    .mini-div-that-show-type-of-notification{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .new-notification-indicator{
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-right: 0px;
+    }
+
+
+
+    /*Settings*/
+
+
+
+    /*Footer page pop-up*/
+    .main-pl-pd-div{
+        padding: 6%;
+    }
+
+    .mai-section-for-text-ft{
+               margin-top: 6%; 
+
+    }
+
+
+}
